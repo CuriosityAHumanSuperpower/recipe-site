@@ -1,0 +1,37 @@
+{
+  "id": "classic-ratatouille",
+  "title": "Classic Ratatouille",
+  "description": "A rustic Provençal vegetable stew of aubergine, courgette, peppers and tomatoes, slow-simmered with garlic and herbes de Provence. Naturally vegan and gluten-free.",
+  "tags": ["vegetarian", "vegan", "meal", "dinner", "gluten-free"],
+  "category": "main",
+  "sortKey": "Ratatouille",
+  "baseServings": 4,
+  "prepTime": 20,
+  "cookTime": 40,
+  "createdAt": "2024-03-22",
+  "ingredients": [
+    { "name": "Aubergine", "amount": 1, "unit": "" },
+    { "name": "Courgettes", "amount": 2, "unit": "" },
+    { "name": "Red bell pepper", "amount": 1, "unit": "" },
+    { "name": "Yellow bell pepper", "amount": 1, "unit": "" },
+    { "name": "Ripe tomatoes", "amount": 4, "unit": "" },
+    { "name": "Onion", "amount": 1, "unit": "" },
+    { "name": "Garlic cloves", "amount": 3, "unit": "" },
+    { "name": "Olive oil", "amount": 4, "unit": "tbsp" },
+    { "name": "Herbes de Provence", "amount": 1, "unit": "tbsp" },
+    { "name": "Bay leaf", "amount": 1, "unit": "" },
+    { "name": "Salt", "amount": 1, "unit": "tsp" },
+    { "name": "Black pepper", "amount": 1, "unit": "pinch" },
+    { "name": "Fresh basil leaves", "amount": 10, "unit": "" }
+  ],
+  "steps": [
+    "Dice the aubergine, courgettes and bell peppers into roughly 2 cm cubes. Chop the onion finely and mince the garlic.",
+    "Score a small cross on the base of each tomato, blanch in boiling water for 30 seconds, then peel and dice them.",
+    "Heat the olive oil in a large pot over medium heat. Sauté the onion and garlic for 3-4 minutes until translucent.",
+    "Add the aubergine and cook for 5 minutes, stirring occasionally, until it starts to soften.",
+    "Add the peppers and courgettes, then stir in the tomatoes, herbes de Provence, bay leaf, salt and pepper.",
+    "Cover and simmer on low heat for 35-40 minutes, stirring occasionally, until all the vegetables are tender and the sauce has thickened.",
+    "Remove the bay leaf, tear over the fresh basil, and adjust seasoning to taste before serving."
+  ],
+  "footnote": "Tastes even better the next day. Serve warm as a side, or as a main with crusty bread or rice."
+}

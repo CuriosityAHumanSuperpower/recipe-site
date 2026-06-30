@@ -1,0 +1,31 @@
+{
+  "id": "fluffy-pancakes",
+  "title": "Fluffy Pancakes",
+  "description": "Soft, airy breakfast pancakes with a golden crust, ready in 20 minutes. Serve with maple syrup, fresh fruit, or a dusting of icing sugar.",
+  "tags": ["breakfast", "vegetarian", "sweet"],
+  "category": "breakfast",
+  "sortKey": "Pancakes",
+  "baseServings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "createdAt": "2024-02-10",
+  "ingredients": [
+    { "name": "Flour (wheat, type 405)", "amount": 250, "unit": "g" },
+    { "name": "Milk", "amount": 300, "unit": "ml" },
+    { "name": "Eggs", "amount": 2, "unit": "" },
+    { "name": "Sugar", "amount": 2, "unit": "tbsp" },
+    { "name": "Baking powder", "amount": 2, "unit": "tsp" },
+    { "name": "Salt", "amount": 1, "unit": "pinch" },
+    { "name": "Butter, melted", "amount": 40, "unit": "g" },
+    { "name": "Vanilla extract", "amount": 1, "unit": "tsp" }
+  ],
+  "steps": [
+    "In a large bowl, whisk together the flour, sugar, baking powder and salt.",
+    "In a separate bowl, beat the eggs, then whisk in the milk, melted butter and vanilla extract.",
+    "Pour the wet ingredients into the dry ingredients and whisk until just combined — a few small lumps are fine, do not overmix.",
+    "Heat a non-stick pan over medium heat and lightly grease it. Pour in a small ladle of batter per pancake.",
+    "Cook for 2-3 minutes until bubbles form on the surface, then flip and cook for another 1-2 minutes until golden.",
+    "Stack the pancakes and serve warm with your favourite toppings."
+  ],
+  "footnote": "For extra fluffiness, let the batter rest for 10 minutes before cooking and avoid pressing the pancakes with the spatula."
+}

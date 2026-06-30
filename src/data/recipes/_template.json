@@ -1,0 +1,24 @@
+{
+  "_comment": "TEMPLATE FILE — copy this to a new file WITHOUT the leading underscore (e.g. my-recipe.json) and fill it in. Files starting with '_' are ignored by the app on purpose, so this template never shows up on the site.",
+  "id": "your-recipe-id",
+  "title": "Recipe Title",
+  "description": "A short, appetising one or two sentence description shown on the card and at the top of the recipe page.",
+  "tags": ["vegetarian", "dinner"],
+  "category": "main",
+  "_categoryOptions": "one of: breakfast, starter, main, side, dessert, snack, drink — see src/data/categories.json",
+  "sortKey": "Recipe Title",
+  "_sortKeyHelp": "REQUIRED. The word/phrase this recipe alphabetizes under on the homepage, e.g. for 'Classic Ratatouille' set sortKey to 'Ratatouille' so it sorts under R instead of C. Always set this explicitly — npm run check-recipes will flag it if it's missing.",
+  "baseServings": 4,
+  "prepTime": 15,
+  "cookTime": 30,
+  "createdAt": "2026-06-30",
+  "ingredients": [
+    { "name": "Ingredient name", "amount": 250, "unit": "g" },
+    { "name": "Unit-less countable item (e.g. eggs)", "amount": 2, "unit": "" }
+  ],
+  "steps": [
+    "First step, written as a full sentence.",
+    "Second step..."
+  ],
+  "footnote": "Optional tip, variation, or storage advice. Remove this field entirely if not needed."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "stuffed-peppers-lentils-feta",
+  "title": "Red Lentil & Feta Stuffed Peppers",
+  "description": "Colourful peppers filled with a creamy, spiced lentil stuffing — a generous, complete meal with very little effort.",
+  "tags": ["vegetarian", "meal", "dinner", "gluten-free"],
+  "category": "main",
+  "sortKey": "Peppers",
+  "baseServings": 4,
+  "prepTime": 25,
+  "cookTime": 40,
+  "createdAt": "2026-06-30",
+  "ingredients": [
+    { "name": "Bell peppers (red, yellow or orange)", "amount": 4, "unit": "" },
+    { "name": "Dried red lentils", "amount": 150, "unit": "g" },
+    { "name": "Feta, crumbled", "amount": 150, "unit": "g" },
+    { "name": "Chopped tomatoes (tinned)", "amount": 200, "unit": "g" },
+    { "name": "Cooked basmati rice", "amount": 150, "unit": "g" },
+    { "name": "Onion", "amount": 1, "unit": "" },
+    { "name": "Garlic cloves", "amount": 2, "unit": "" },
+    { "name": "Ground cumin", "amount": 1, "unit": "tsp" },
+    { "name": "Smoked paprika", "amount": 1, "unit": "tsp" },
+    { "name": "Turmeric", "amount": 0.5, "unit": "tsp" },
+    { "name": "Olive oil", "amount": 2, "unit": "tbsp" },
+    { "name": "Salt", "amount": 1, "unit": "tsp" },
+    { "name": "Black pepper", "amount": 0.5, "unit": "tsp" },
+    { "name": "Fresh parsley, chopped", "amount": 2, "unit": "tbsp" },
+    { "name": "Gruyère or mozzarella, grated (for the topping)", "amount": 40, "unit": "g" }
+  ],
+  "steps": [
+    "Preheat the oven to 190°C (fan). Lightly oil the bottom of a baking dish deep enough for the peppers to stand upright.",
+    "Rinse the red lentils, then cook them in 400 ml of unsalted boiling water for 10-12 minutes until all the water is absorbed and they form a thick, soft purée. Set aside.",
+    "Slice the top off each pepper (stem side) and set the tops aside. Carefully remove the seeds and white membranes inside. Stand the peppers upright in the dish.",
+    "Heat the olive oil in a pan over medium heat. Sauté the diced onion for 3 minutes, then add the chopped garlic, cumin, smoked paprika and turmeric. Cook for another minute, stirring, until the spices are fragrant.",
+    "In a large bowl, combine the cooked lentils, the spiced onion mixture, chopped tomatoes, cooked rice and two-thirds of the feta. Stir in the parsley, season with the salt and pepper. The stuffing should be thick and well seasoned.",
+    "Generously fill each pepper with the stuffing, pressing it down well. Scatter the remaining feta and the grated cheese on top. Rest the pepper tops alongside in the dish (not on top) for decoration. Drizzle with a little olive oil.",
+    "Bake for 30-35 minutes, until the peppers are tender (the skin starts to wrinkle) and the top is lightly golden. Check doneness with the tip of a knife.",
+    "Rest for 5 minutes before serving. Serve with a green salad in a lemon vinaigrette, or with toasted bread. Can be made ahead and reheated easily."
+  ],
+  "footnote": "Pepper choice: go for red, yellow or orange peppers — sweeter than green ones, they pair better with the feta and spices. Pick peppers that stand up straight on their own. Variations: swap the rice for quinoa for extra protein, add toasted pine nuts to the stuffing for crunch, or stir in a pinch of chilli or a little harissa to spice things up. Keeps for 2 days in the fridge — reheat in the oven at 160°C for 15 minutes."
+}

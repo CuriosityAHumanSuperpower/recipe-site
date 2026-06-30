@@ -1,0 +1,33 @@
+{
+  "id": "spring-pea-asparagus-soup",
+  "title": "Spring Pea & Asparagus Soup with Goat Cheese Toasts",
+  "description": "A bright, fresh green soup of peas and asparagus lifted with mint, served with crisp garlic toasts topped with goat cheese and a touch of chilli.",
+  "tags": ["vegetarian", "starter", "gluten-free"],
+  "category": "starter",
+  "sortKey": "Soup",
+  "baseServings": 4,
+  "prepTime": 15,
+  "cookTime": 20,
+  "createdAt": "2026-06-30",
+  "ingredients": [
+    { "name": "Peas, fresh or frozen", "amount": 400, "unit": "g" },
+    { "name": "Asparagus, trimmed", "amount": 350, "unit": "g" },
+    { "name": "Vegetable stock", "amount": 600, "unit": "ml" },
+    { "name": "Fresh mint leaves", "amount": 10, "unit": "" },
+    { "name": "Baguette or country bread, sliced", "amount": 8, "unit": "" },
+    { "name": "Garlic clove (to rub on the toasts)", "amount": 1, "unit": "" },
+    { "name": "Fresh goat cheese", "amount": 100, "unit": "g" },
+    { "name": "Olive oil", "amount": 2, "unit": "tbsp" },
+    { "name": "Espelette pepper (or mild chilli flakes)", "amount": 1, "unit": "pinch" },
+    { "name": "Salt", "amount": 1, "unit": "tsp" }
+  ],
+  "steps": [
+    "Bring a large pot of salted water to the boil. Cook the asparagus for 3-4 minutes until just tender, then lift out with a slotted spoon and plunge into cold water to keep its colour. Cook the peas in the same water for 2-3 minutes, then drain.",
+    "Set aside a few whole asparagus tips and peas for garnish. Roughly chop the rest of the asparagus.",
+    "Blend the cooked peas, chopped asparagus, mint leaves and vegetable stock until completely smooth. Season with salt and adjust the stock quantity for a thinner or thicker soup.",
+    "Warm the soup gently over low heat without boiling (to keep its bright colour), and check the seasoning.",
+    "For the toasts: toast the bread slices, then rub one side with the cut side of the garlic clove while still warm. Drizzle with olive oil, spread with goat cheese, and finish with a pinch of Espelette pepper.",
+    "Ladle the soup into bowls, garnish with the reserved peas and asparagus tips, and serve with the warm toasts alongside."
+  ],
+  "footnote": "Quantities for the soup and toasts are estimated for 4 starter-sized portions — let me know if you had different amounts in mind and I'll adjust. Keep the soup warm but never let it boil once blended, to preserve its bright green colour."
+}

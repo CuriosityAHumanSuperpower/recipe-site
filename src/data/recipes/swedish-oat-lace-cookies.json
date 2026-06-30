@@ -1,0 +1,37 @@
+{
+  "id": "swedish-oat-lace-cookies",
+  "title": "Swedish Oat Lace Cookies (Havreflarn)",
+  "description": "Thin, crisp Swedish oat cookies, the kind you find at Ikea's bistro — lacy and golden, delicious on their own or sandwiched in pairs around tempered chocolate.",
+  "tags": ["dessert", "vegetarian", "sweet"],
+  "category": "dessert",
+  "sortKey": "Havreflarn",
+  "baseServings": 100,
+  "prepTime": 150,
+  "cookTime": 8,
+  "createdAt": "2026-06-30",
+  "ingredients": [
+    { "name": "Rolled oats", "amount": 200, "unit": "g" },
+    { "name": "Sugar", "amount": 300, "unit": "g" },
+    { "name": "Firm baking margarine", "amount": 180, "unit": "g" },
+    { "name": "Flour", "amount": 70, "unit": "g" },
+    { "name": "Liquid vanilla extract", "amount": 0.5, "unit": "tsp" },
+    { "name": "Large egg (about 60 g)", "amount": 1, "unit": "" },
+    { "name": "Salt", "amount": 1, "unit": "pinch" },
+    { "name": "Baking powder", "amount": 0.25, "unit": "tsp" },
+    { "name": "Tempered dark chocolate (optional, for double cookies)", "amount": 350, "unit": "g" },
+    { "name": "Cocoa butter (Mycryo, optional, for tempering)", "amount": 4, "unit": "g" }
+  ],
+  "steps": [
+    "Blitz the rolled oats in a food processor for about 40 seconds, until you get a coarse (not too fine) powder.",
+    "In a bowl, combine the oat powder with the sugar and salt.",
+    "Add the flour and mix well.",
+    "Melt the margarine (microwave or bain-marie), then stir it into the dry mixture until well combined.",
+    "Add the egg and the vanilla extract, mixing until smooth. Once the batter has cooled slightly, fold in the baking powder.",
+    "Cover and chill the batter in the fridge for at least 2 hours, ideally overnight — this makes it much easier to portion.",
+    "Preheat the oven to around 190-200°C. Line a baking tray with parchment paper and portion the chilled batter into small balls of about 8 g each, spaced well apart (they spread a lot) — no need to flatten them, they melt into shape on their own.",
+    "Bake one tray at a time for 7-8 minutes, watching closely: they're ready when golden around the edge and slightly paler in the centre. Adjust time/temperature slightly to your oven — the goal is a cookie that turns crisp all the way through once cooled.",
+    "Let the cookies cool completely and firm up on a wire rack before handling — they're fragile while warm.",
+    "For double cookies: temper the chocolate (with the cocoa butter, if using) or simply melt it. Dip the underside of one cookie in the chocolate, almost up to the edge, then sandwich it with a plain cookie. Let the chocolate set before serving."
+  ],
+  "footnote": "Recipe adapted from lacuisinedebernard.com's Havreflarn (a clone of the Ikea bistro cookie). Makes about 100 single cookies, or 50 double cookies if sandwiching pairs with chocolate. The base recipe doubles or halves easily via the servings control — it scales the same way as any other ingredient list here. Use a firm cooking margarine rather than butter for the most authentic texture; butter works but gives a noticeably different flavour."
+}

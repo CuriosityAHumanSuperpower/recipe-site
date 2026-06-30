@@ -1,0 +1,32 @@
+{
+  "id": "peanut-butter-chickpea-stew",
+  "title": "Peanut Butter & Chickpea Stew",
+  "description": "A quick, creamy one-pot stew where peanut butter and tomato sauce melt together into a rich, comforting sauce for chickpeas, vegetables and rice.",
+  "tags": ["vegan", "vegetarian", "meal", "dinner", "gluten-free"],
+  "category": "main",
+  "sortKey": "Stew",
+  "baseServings": 2,
+  "prepTime": 10,
+  "cookTime": 20,
+  "createdAt": "2026-06-30",
+  "ingredients": [
+    { "name": "Chickpeas, tinned and drained", "amount": 250, "unit": "g" },
+    { "name": "Basmati rice (raw weight)", "amount": 100, "unit": "g" },
+    { "name": "Peanut butter", "amount": 40, "unit": "g" },
+    { "name": "Tomato sauce (100% tomato, no added sugar)", "amount": 200, "unit": "g" },
+    { "name": "Fresh or frozen vegetables (broccoli, green beans, spinach...)", "amount": 125, "unit": "g" },
+    { "name": "Onion", "amount": 1, "unit": "" },
+    { "name": "Garlic clove", "amount": 1, "unit": "" },
+    { "name": "Salt", "amount": 1, "unit": "tsp" },
+    { "name": "Black pepper", "amount": 0.25, "unit": "tsp" },
+    { "name": "Paprika", "amount": 1, "unit": "tsp" }
+  ],
+  "steps": [
+    "Cook the rice according to the packet instructions in salted water, then drain and set aside.",
+    "Meanwhile, finely chop the onion and garlic. Heat a little oil in a pot over medium heat and sauté them for 3-4 minutes until soft.",
+    "Stir in the paprika and cook for 30 seconds until fragrant, then add the tomato sauce and peanut butter. Stir until the peanut butter has melted into the sauce.",
+    "Add the chickpeas and the vegetables (if using frozen, no need to thaw first). Simmer for 10-12 minutes, stirring occasionally, until the vegetables are tender and the sauce has thickened.",
+    "Season with the salt and pepper, adjust to taste, and serve hot over the rice."
+  ],
+  "footnote": "Quantities here are sized for about 2 servings — scale up using the servings control if you're cooking for more. Using dried chickpeas instead of tinned: soak 125 g overnight and simmer until tender before adding to the stew, which will add roughly an hour to the prep. Spice amounts (salt, pepper, paprika) are a starting point — adjust to taste."
+}

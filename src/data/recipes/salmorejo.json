@@ -1,0 +1,31 @@
+{
+  "id": "salmorejo",
+  "title": "Salmorejo",
+  "description": "La soupe froide de Cordoue — plus épaisse et crémeuse que le gazpacho, avec seulement de la tomate, du pain rassis et de l'huile d'olive. Servi avec des œufs durs et du jambon cru.",
+  "tags": ["starter", "cold", "summer"],
+  "category": "starter",
+  "sortKey": "Salmorejo",
+  "baseServings": 4,
+  "prepTime": 15,
+  "cookTime": 0,
+  "createdAt": "2026-07-14",
+  "ingredients": [
+    { "name": "Tomates bien mûres", "amount": 1000, "unit": "g" },
+    { "name": "Pain blanc rassis (sans croûte)", "amount": 150, "unit": "g" },
+    { "name": "Huile d'olive extra vierge", "amount": 100, "unit": "ml" },
+    { "name": "Gousse d'ail", "amount": 1, "unit": "" },
+    { "name": "Vinaigre de Xérès (ou vinaigre de vin rouge)", "amount": 1, "unit": "tbsp" },
+    { "name": "Sel", "amount": 1, "unit": "tsp" },
+    { "name": "Œufs durs (pour servir)", "amount": 2, "unit": "" },
+    { "name": "Jambon serrano ou ibérique, en lanières (pour servir)", "amount": 80, "unit": "g" }
+  ],
+  "steps": [
+    "Couper les tomates en quartiers. Mixer les tomates avec l'ail et le sel jusqu'à obtenir un jus lisse. Si vos tomates ont la peau épaisse, passer au tamis fin pour une texture parfaitement lisse.",
+    "Émietter le pain et l'incorporer dans le mixer avec le jus de tomate. Laisser reposer 5 minutes pour que le pain s'imbibe bien, puis mixer à nouveau jusqu'à obtenir une purée très homogène.",
+    "Le moteur du mixer tournant, verser l'huile d'olive en filet lent et régulier — comme pour une mayonnaise. L'émulsion doit épaissir et prendre une teinte orangée crémeuse.",
+    "Ajouter le vinaigre de Xérès, goûter et ajuster sel et vinaigre. La soupe doit être bien assaisonnée et légèrement acidulée.",
+    "Couvrir et réfrigérer au minimum 2 heures, idéalement toute une nuit.",
+    "Servir bien froid dans des bols, garni d'œuf dur haché grossièrement et de lanières de jambon. Un filet d'huile d'olive en finition."
+  ],
+  "footnote": "La qualité des tomates est tout — le salmorejo ne se fait qu'avec des tomates très mûres et gorgées de soleil, idéalement en plein été. Hors saison, les tomates San Marzano en conserve entières peuvent dépanner. Le pain rassis (pas grillé) est indispensable : c'est lui qui donne la texture épaisse caractéristique, bien différente du gazpacho."
+}

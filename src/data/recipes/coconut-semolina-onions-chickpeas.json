@@ -1,0 +1,32 @@
+{
+  "id": "coconut-semolina-onions-chickpeas",
+  "title": "Coconut Semolina with Caramelised Onions & Chickpeas",
+  "description": "Semolina cooked in coconut milk, crowned with a heap of slow-caramelised onions and spiced chickpeas — a generous, fragrant bowl that works as a main or a hearty side.",
+  "tags": ["vegan", "vegetarian", "meal", "dinner"],
+  "category": "main",
+  "sortKey": "Semolina",
+  "baseServings": 4,
+  "prepTime": 10,
+  "cookTime": 35,
+  "createdAt": "2026-06-30",
+  "ingredients": [
+    { "name": "Medium coarse semolina", "amount": 300, "unit": "g" },
+    { "name": "Coconut milk (full fat)", "amount": 400, "unit": "ml" },
+    { "name": "Water", "amount": 300, "unit": "ml" },
+    { "name": "Onions", "amount": 4, "unit": "" },
+    { "name": "Chickpeas, tinned and drained", "amount": 400, "unit": "g" },
+    { "name": "Smoked paprika", "amount": 2, "unit": "tsp" },
+    { "name": "Ground cumin", "amount": 1, "unit": "tsp" },
+    { "name": "Olive oil", "amount": 3, "unit": "tbsp" },
+    { "name": "Salt", "amount": 1, "unit": "tsp" },
+    { "name": "Black pepper", "amount": 0.25, "unit": "tsp" },
+    { "name": "Fresh coriander or parsley, to serve", "amount": 1, "unit": "tbsp" }
+  ],
+  "steps": [
+    "Peel and thinly slice all the onions. Heat 2 tablespoons of olive oil in a wide pan over medium-low heat and cook the onions for 25-30 minutes, stirring every few minutes, until deeply golden and jammy. Be patient — this is the heart of the dish.",
+    "Add the chickpeas to the onions with 1 teaspoon of paprika and the cumin. Season with half the salt and cook together for 5 minutes until the chickpeas are coated and slightly crispy at the edges. Set aside.",
+    "In a saucepan, bring the coconut milk, water, remaining paprika and remaining salt to a gentle simmer. Pour in the semolina in a steady stream, stirring constantly. Cook over low heat for 3-4 minutes, stirring, until the semolina is thick and pulls away from the sides. Cover and leave to steam off the heat for 2 minutes.",
+    "Spoon the semolina into bowls or onto a large platter, top generously with the caramelised onions and spiced chickpeas, and finish with fresh coriander or parsley and a drizzle of olive oil."
+  ],
+  "footnote": "The onions need time — rushing them over high heat gives you stewed onions, not caramelised ones. Low and slow is the only way. A splash of water halfway through prevents them catching without losing colour."
+}

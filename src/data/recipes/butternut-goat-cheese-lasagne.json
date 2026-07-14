@@ -1,0 +1,37 @@
+{
+  "id": "butternut-goat-cheese-lasagne",
+  "title": "Butternut Squash & Goat Cheese Lasagne",
+  "description": "Layers of pasta, velvety butternut purée, creamy goat cheese and a spinach-rosemary béchamel — a warming, elegant vegetarian centrepiece.",
+  "tags": ["vegetarian", "meal", "dinner"],
+  "category": "main",
+  "sortKey": "Lasagne",
+  "baseServings": 4,
+  "prepTime": 30,
+  "cookTime": 50,
+  "createdAt": "2026-06-30",
+  "ingredients": [
+    { "name": "Butternut squash, peeled and diced", "amount": 900, "unit": "g" },
+    { "name": "Fresh goat cheese", "amount": 200, "unit": "g" },
+    { "name": "Dried lasagne sheets", "amount": 200, "unit": "g" },
+    { "name": "Baby spinach", "amount": 150, "unit": "g" },
+    { "name": "Whole milk", "amount": 600, "unit": "ml" },
+    { "name": "Butter", "amount": 40, "unit": "g" },
+    { "name": "Flour", "amount": 40, "unit": "g" },
+    { "name": "Fresh rosemary, finely chopped", "amount": 1, "unit": "tbsp" },
+    { "name": "Fresh sage leaves", "amount": 10, "unit": "" },
+    { "name": "Parmesan, grated", "amount": 50, "unit": "g" },
+    { "name": "Olive oil", "amount": 2, "unit": "tbsp" },
+    { "name": "Nutmeg, grated", "amount": 1, "unit": "pinch" },
+    { "name": "Salt", "amount": 1, "unit": "tsp" },
+    { "name": "Black pepper", "amount": 0.5, "unit": "tsp" }
+  ],
+  "steps": [
+    "Preheat the oven to 190°C (fan). Toss the diced butternut squash with the olive oil, salt and pepper on a baking tray and roast for 25 minutes until tender and lightly caramelised. Blend into a smooth purée and set aside.",
+    "Make the béchamel: melt the butter in a saucepan over medium heat, whisk in the flour and cook for 1 minute. Gradually pour in the milk, whisking constantly, until you have a smooth, thick sauce. Season with salt, pepper and nutmeg, then stir in the rosemary. Remove from the heat and fold in the spinach — it will wilt into the sauce. Set aside.",
+    "In a dry pan over medium heat, briefly fry the sage leaves in a drop of olive oil for 30 seconds until crisp. Set aside.",
+    "Assemble the lasagne in a baking dish: start with a thin layer of béchamel, then a layer of pasta sheets, then half the butternut purée, half the goat cheese crumbled over, and a ladleful of béchamel. Repeat the layers, finishing with the remaining béchamel on top.",
+    "Scatter the grated parmesan over the top and arrange the crispy sage leaves over the surface.",
+    "Bake for 35-40 minutes until the top is golden and bubbling and the pasta is cooked through. Rest for 10 minutes before serving."
+  ],
+  "footnote": "Roasting the squash rather than steaming it concentrates its sweetness and keeps the purée from being watery — essential for a lasagne that holds its shape when served."
+}

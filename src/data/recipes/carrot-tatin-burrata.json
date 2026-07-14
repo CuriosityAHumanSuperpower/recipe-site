@@ -1,0 +1,32 @@
+{
+  "id": "carrot-tatin-burrata",
+  "title": "Honey & Balsamic Carrot Tarte Tatin with Burrata",
+  "description": "Sweet carrots glazed with honey and balsamic, caramelised under a golden puff pastry lid and flipped to reveal a jewel-like tart — finished with cool, creamy burrata straight from the fridge.",
+  "tags": ["vegetarian", "starter"],
+  "category": "starter",
+  "sortKey": "Tatin",
+  "baseServings": 4,
+  "prepTime": 15,
+  "cookTime": 45,
+  "createdAt": "2026-06-30",
+  "ingredients": [
+    { "name": "Carrots, peeled", "amount": 700, "unit": "g" },
+    { "name": "Ready-rolled puff pastry", "amount": 1, "unit": "" },
+    { "name": "Burrata", "amount": 2, "unit": "" },
+    { "name": "Honey", "amount": 3, "unit": "tbsp" },
+    { "name": "Balsamic vinegar", "amount": 2, "unit": "tbsp" },
+    { "name": "Butter", "amount": 30, "unit": "g" },
+    { "name": "Fresh thyme sprigs", "amount": 4, "unit": "" },
+    { "name": "Salt", "amount": 0.5, "unit": "tsp" },
+    { "name": "Black pepper", "amount": 0.25, "unit": "tsp" }
+  ],
+  "steps": [
+    "Preheat the oven to 200°C (fan). Cut the carrots into thick rounds or halve them lengthways if thin — they should be roughly the same size so they cook evenly.",
+    "In an oven-safe frying pan (about 26 cm), melt the butter over medium-high heat. Add the carrots and cook for 5 minutes, turning, until lightly coloured.",
+    "Add the honey, balsamic vinegar, thyme, salt and pepper. Stir to coat the carrots, then arrange them snugly in a single layer, cut side down, packing them tightly (they will shrink). Cook for another 5 minutes until the glaze is bubbling and turning a deep amber.",
+    "Lay the puff pastry over the pan, tucking the edges down around the carrots like a blanket. Prick the pastry a few times with a fork.",
+    "Bake for 25-30 minutes until the pastry is puffed and deeply golden.",
+    "Leave to rest for 5 minutes off the heat, then carefully flip the tart onto a serving plate. Tear the burrata over the hot tart just before serving so it starts to melt slightly into the caramel."
+  ],
+  "footnote": "The tart must be flipped while still hot or the caramel sets and the carrots stick to the pan. Have your serving plate ready before you start flipping. Burrata goes on at the very last moment — the contrast between the hot tart and the cold cream is the whole point of the dish."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pasta-roasted-pepper-sauce",
+  "title": "Fresh Pasta with Roasted Pepper & Pine Nut Sauce",
+  "description": "Grilled peppers, peeled and blended with toasted pine nuts, parmesan, rocket, basil, lemon and olive oil into a vibrant, creamy sauce — no cooking required once the peppers are done.",
+  "tags": ["vegetarian", "meal", "dinner"],
+  "category": "main",
+  "sortKey": "Pasta",
+  "baseServings": 4,
+  "prepTime": 15,
+  "cookTime": 25,
+  "createdAt": "2026-06-30",
+  "ingredients": [
+    { "name": "Fresh pasta (tagliatelle or pappardelle)", "amount": 400, "unit": "g" },
+    { "name": "Red bell peppers", "amount": 4, "unit": "" },
+    { "name": "Pine nuts", "amount": 50, "unit": "g" },
+    { "name": "Parmesan, grated", "amount": 60, "unit": "g" },
+    { "name": "Rocket (arugula)", "amount": 50, "unit": "g" },
+    { "name": "Fresh basil leaves", "amount": 20, "unit": "" },
+    { "name": "Lemon, juice and zest", "amount": 1, "unit": "" },
+    { "name": "Olive oil", "amount": 5, "unit": "tbsp" },
+    { "name": "Salt", "amount": 1, "unit": "tsp" },
+    { "name": "Black pepper", "amount": 0.25, "unit": "tsp" }
+  ],
+  "steps": [
+    "Grill the whole peppers directly over a gas flame or under a very hot oven grill, turning regularly, until the skin is completely charred and black all over. Place in a bowl, cover tightly with cling film and leave for 15 minutes — the steam loosens the skin.",
+    "Toast the pine nuts in a dry pan over medium heat for 2-3 minutes, shaking often, until golden. Watch closely — they burn fast. Set aside.",
+    "Peel the peppers: the charred skin should slip off easily under running water. Remove the seeds and stalks. Pat dry with kitchen paper.",
+    "Blend the peeled peppers with the pine nuts, parmesan, rocket, basil, lemon juice and zest, and olive oil until smooth. Season with salt and pepper. The sauce should be thick and vibrant.",
+    "Cook the pasta in well-salted boiling water according to the packet, then drain, reserving a cup of the pasta water.",
+    "Toss the hot pasta with the pepper sauce, loosening with a splash of pasta water as needed. Serve immediately with extra parmesan and a few torn basil leaves on top."
+  ],
+  "footnote": "Charring the peppers directly over a flame gives a much deeper, smoky flavour than oven-roasting — worth the extra minute. The sauce can be made a day ahead and kept in the fridge; bring it to room temperature before tossing with the pasta."
+}

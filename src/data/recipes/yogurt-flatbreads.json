@@ -1,0 +1,25 @@
+{
+  "id": "yogurt-flatbreads",
+  "title": "Yogurt Flatbreads",
+  "description": "Two-ingredient dough — just yogurt and flour — that comes together in minutes and cooks in a dry pan. Soft, slightly chewy, and ready to eat warm straight off the hob.",
+  "tags": ["vegetarian", "breakfast", "snack"],
+  "category": "snack",
+  "sortKey": "Flatbreads",
+  "baseServings": 6,
+  "prepTime": 10,
+  "cookTime": 15,
+  "createdAt": "2026-06-30",
+  "ingredients": [
+    { "name": "Plain yogurt (full fat)", "amount": 300, "unit": "g" },
+    { "name": "Flour (all-purpose)", "amount": 300, "unit": "g" },
+    { "name": "Baking powder", "amount": 1, "unit": "tsp" },
+    { "name": "Salt", "amount": 0.5, "unit": "tsp" }
+  ],
+  "steps": [
+    "Combine the flour, baking powder and salt in a bowl. Add the yogurt and mix with a fork, then knead briefly with your hands until you have a soft, slightly sticky dough. Do not overwork it.",
+    "Divide the dough into 6 equal balls. On a lightly floured surface, roll each one out thinly to about 3-4 mm thick.",
+    "Heat a dry cast-iron or non-stick pan over high heat until very hot. Cook each flatbread for 1-2 minutes per side until dark spots appear and the bread puffs slightly. No oil needed.",
+    "Stack the cooked flatbreads under a clean cloth to keep them soft, and serve warm."
+  ],
+  "footnote": "Full-fat yogurt gives the best texture — low-fat versions make the dough too wet and the flatbreads less tender. The dough can be made a few hours ahead and kept covered in the fridge; bring it back to room temperature before rolling."
+}

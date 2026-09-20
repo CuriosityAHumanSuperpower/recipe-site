@@ -1,8 +1,8 @@
 {
   "id": "classic-ratatouille",
-  "title": "Classic Ratatouille",
-  "description": "A rustic Provençal vegetable stew of aubergine, courgette, peppers and tomatoes, slow-simmered with garlic and herbes de Provence. Naturally vegan and gluten-free.",
-  "tags": ["vegetarian", "vegan", "meal", "dinner", "gluten-free"],
+  "title": "Ratatouille Classique",
+  "description": "Le ragoût provençal rustique d'aubergine, courgette, poivrons et tomates, mijoté lentement avec de l'ail et des herbes de Provence. Naturellement végétalien et sans gluten.",
+  "tags": ["végétarien", "végétalien", "plat", "dîner", "sans gluten"],
   "category": "main",
   "sortKey": "Ratatouille",
   "baseServings": 4,
@@ -12,26 +12,26 @@
   "ingredients": [
     { "name": "Aubergine", "amount": 1, "unit": "" },
     { "name": "Courgettes", "amount": 2, "unit": "" },
-    { "name": "Red bell pepper", "amount": 1, "unit": "" },
-    { "name": "Yellow bell pepper", "amount": 1, "unit": "" },
-    { "name": "Ripe tomatoes", "amount": 4, "unit": "" },
-    { "name": "Onion", "amount": 1, "unit": "" },
-    { "name": "Garlic cloves", "amount": 3, "unit": "" },
-    { "name": "Olive oil", "amount": 4, "unit": "tbsp" },
+    { "name": "Poivron rouge", "amount": 1, "unit": "" },
+    { "name": "Poivron jaune", "amount": 1, "unit": "" },
+    { "name": "Tomates mûres", "amount": 4, "unit": "" },
+    { "name": "Oignon", "amount": 1, "unit": "" },
+    { "name": "Gousses d'ail", "amount": 3, "unit": "" },
+    { "name": "Huile d'olive", "amount": 4, "unit": "tbsp" },
     { "name": "Herbes de Provence", "amount": 1, "unit": "tbsp" },
-    { "name": "Bay leaf", "amount": 1, "unit": "" },
-    { "name": "Salt", "amount": 1, "unit": "tsp" },
-    { "name": "Black pepper", "amount": 1, "unit": "pinch" },
-    { "name": "Fresh basil leaves", "amount": 10, "unit": "" }
+    { "name": "Feuille de laurier", "amount": 1, "unit": "" },
+    { "name": "Sel", "amount": 1, "unit": "tsp" },
+    { "name": "Poivre noir", "amount": 1, "unit": "pinch" },
+    { "name": "Feuilles de basilic frais", "amount": 10, "unit": "" }
   ],
   "steps": [
-    "Dice the aubergine, courgettes and bell peppers into roughly 2 cm cubes. Chop the onion finely and mince the garlic.",
-    "Score a small cross on the base of each tomato, blanch in boiling water for 30 seconds, then peel and dice them.",
-    "Heat the olive oil in a large pot over medium heat. Sauté the onion and garlic for 3-4 minutes until translucent.",
-    "Add the aubergine and cook for 5 minutes, stirring occasionally, until it starts to soften.",
-    "Add the peppers and courgettes, then stir in the tomatoes, herbes de Provence, bay leaf, salt and pepper.",
-    "Cover and simmer on low heat for 35-40 minutes, stirring occasionally, until all the vegetables are tender and the sauce has thickened.",
-    "Remove the bay leaf, tear over the fresh basil, and adjust seasoning to taste before serving."
+    "Couper l'aubergine, les courgettes et les poivrons en cubes de 2 cm environ. Émincer finement l'oignon et hacher l'ail.",
+    "Inciser une croix à la base de chaque tomate, les ébouillanter 30 secondes puis les peler et les couper en dés.",
+    "Chauffer l'huile d'olive dans une grande cocotte à feu moyen. Faire revenir l'oignon et l'ail 3 à 4 minutes jusqu'à ce qu'ils soient translucides.",
+    "Ajouter l'aubergine et cuire 5 minutes en remuant, jusqu'à ce qu'elle commence à fondre.",
+    "Ajouter les poivrons et les courgettes, puis incorporer les tomates, les herbes de Provence, le laurier, le sel et le poivre.",
+    "Couvrir et laisser mijoter à feu doux 35 à 40 minutes en remuant de temps en temps, jusqu'à ce que tous les légumes soient tendres et la sauce bien réduite.",
+    "Retirer le laurier, parsemer de basilic frais déchiré et rectifier l'assaisonnement avant de servir."
   ],
-  "footnote": "Tastes even better the next day. Serve warm as a side, or as a main with crusty bread or rice."
+  "footnote": "La ratatouille est encore meilleure réchauffée le lendemain. Se sert chaude en accompagnement ou en plat avec du pain croûté ou du riz."
 }

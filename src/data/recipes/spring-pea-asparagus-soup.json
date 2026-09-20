@@ -1,33 +1,33 @@
 {
   "id": "spring-pea-asparagus-soup",
-  "title": "Spring Pea & Asparagus Soup with Goat Cheese Toasts",
-  "description": "A bright, fresh green soup of peas and asparagus lifted with mint, served with crisp garlic toasts topped with goat cheese and a touch of chilli.",
-  "tags": ["vegetarian", "starter", "gluten-free"],
+  "title": "Velouté de Petits Pois & Asperges, Toasts Chèvre",
+  "description": "Un velouté vert vif et printanier de petits pois et d'asperges parfumé à la menthe, servi avec des toasts à l'ail croustillants garnis de chèvre frais et de piment d'Espelette.",
+  "tags": ["végétarien", "entrée"],
   "category": "starter",
-  "sortKey": "Soup",
+  "sortKey": "Velouté",
   "baseServings": 4,
   "prepTime": 15,
   "cookTime": 20,
   "createdAt": "2026-06-30",
   "ingredients": [
-    { "name": "Peas, fresh or frozen", "amount": 400, "unit": "g" },
-    { "name": "Asparagus, trimmed", "amount": 350, "unit": "g" },
-    { "name": "Vegetable stock", "amount": 600, "unit": "ml" },
-    { "name": "Fresh mint leaves", "amount": 10, "unit": "" },
-    { "name": "Baguette or country bread, sliced", "amount": 8, "unit": "" },
-    { "name": "Garlic clove (to rub on the toasts)", "amount": 1, "unit": "" },
-    { "name": "Fresh goat cheese", "amount": 100, "unit": "g" },
-    { "name": "Olive oil", "amount": 2, "unit": "tbsp" },
-    { "name": "Espelette pepper (or mild chilli flakes)", "amount": 1, "unit": "pinch" },
-    { "name": "Salt", "amount": 1, "unit": "tsp" }
+    { "name": "Petits pois frais ou surgelés", "amount": 400, "unit": "g" },
+    { "name": "Asperges, parées", "amount": 350, "unit": "g" },
+    { "name": "Bouillon de légumes", "amount": 600, "unit": "ml" },
+    { "name": "Feuilles de menthe fraîche", "amount": 10, "unit": "" },
+    { "name": "Tranches de baguette ou pain de campagne", "amount": 8, "unit": "" },
+    { "name": "Gousse d'ail (pour frotter les toasts)", "amount": 1, "unit": "" },
+    { "name": "Chèvre frais", "amount": 100, "unit": "g" },
+    { "name": "Huile d'olive", "amount": 2, "unit": "tbsp" },
+    { "name": "Piment d'Espelette (ou flocons de piment doux)", "amount": 1, "unit": "pinch" },
+    { "name": "Sel", "amount": 1, "unit": "tsp" }
   ],
   "steps": [
-    "Bring a large pot of salted water to the boil. Cook the asparagus for 3-4 minutes until just tender, then lift out with a slotted spoon and plunge into cold water to keep its colour. Cook the peas in the same water for 2-3 minutes, then drain.",
-    "Set aside a few whole asparagus tips and peas for garnish. Roughly chop the rest of the asparagus.",
-    "Blend the cooked peas, chopped asparagus, mint leaves and vegetable stock until completely smooth. Season with salt and adjust the stock quantity for a thinner or thicker soup.",
-    "Warm the soup gently over low heat without boiling (to keep its bright colour), and check the seasoning.",
-    "For the toasts: toast the bread slices, then rub one side with the cut side of the garlic clove while still warm. Drizzle with olive oil, spread with goat cheese, and finish with a pinch of Espelette pepper.",
-    "Ladle the soup into bowls, garnish with the reserved peas and asparagus tips, and serve with the warm toasts alongside."
+    "Porter une grande casserole d'eau salée à ébullition. Cuire les asperges 3 à 4 minutes jusqu'à ce qu'elles soient juste tendres, les retirer avec une écumoire et les plonger immédiatement dans de l'eau froide pour préserver leur couleur. Cuire les petits pois 2 à 3 minutes dans la même eau, puis égoutter.",
+    "Réserver quelques pointes d'asperges et quelques petits pois entiers pour la garniture. Couper grossièrement le reste des asperges.",
+    "Mixer les petits pois, les asperges coupées, les feuilles de menthe et le bouillon jusqu'à obtenir un velouté parfaitement lisse. Ajuster la quantité de bouillon pour l'épaisseur souhaitée. Saler.",
+    "Réchauffer doucement à feu très doux sans jamais faire bouillir pour conserver la couleur verte vive. Rectifier l'assaisonnement.",
+    "Pour les toasts : faire griller les tranches de pain, frotter une face avec la gousse d'ail coupée en deux tant que c'est encore chaud, arroser d'huile d'olive, tartiner de chèvre frais et terminer par une pincée de piment d'Espelette.",
+    "Servir le velouté dans des bols, garnir des petits pois et pointes d'asperges réservés, et proposer les toasts à côté."
   ],
-  "footnote": "Quantities for the soup and toasts are estimated for 4 starter-sized portions — let me know if you had different amounts in mind and I'll adjust. Keep the soup warm but never let it boil once blended, to preserve its bright green colour."
+  "footnote": "Ne jamais faire bouillir le velouté une fois mixé — la chaleur excessive détruit la chlorophylle et fait virer la couleur du vert vif au kaki."
 }

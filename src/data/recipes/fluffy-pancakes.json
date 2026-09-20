@@ -1,8 +1,8 @@
 {
   "id": "fluffy-pancakes",
-  "title": "Fluffy Pancakes",
-  "description": "Soft, airy breakfast pancakes with a golden crust, ready in 20 minutes. Serve with maple syrup, fresh fruit, or a dusting of icing sugar.",
-  "tags": ["breakfast", "vegetarian", "sweet"],
+  "title": "Pancakes Moelleux",
+  "description": "Des pancakes légers et aériens à la croûte dorée, prêts en 20 minutes. À servir avec du sirop d'érable, des fruits frais ou un voile de sucre glace.",
+  "tags": ["petit-déjeuner", "végétarien", "sucré"],
   "category": "breakfast",
   "sortKey": "Pancakes",
   "baseServings": 4,
@@ -10,22 +10,22 @@
   "cookTime": 15,
   "createdAt": "2024-02-10",
   "ingredients": [
-    { "name": "Flour (wheat, type 405)", "amount": 250, "unit": "g" },
-    { "name": "Milk", "amount": 300, "unit": "ml" },
-    { "name": "Eggs", "amount": 2, "unit": "" },
-    { "name": "Sugar", "amount": 2, "unit": "tbsp" },
-    { "name": "Baking powder", "amount": 2, "unit": "tsp" },
-    { "name": "Salt", "amount": 1, "unit": "pinch" },
-    { "name": "Butter, melted", "amount": 40, "unit": "g" },
-    { "name": "Vanilla extract", "amount": 1, "unit": "tsp" }
+    { "name": "Farine de blé (type 55)", "amount": 250, "unit": "g" },
+    { "name": "Lait", "amount": 300, "unit": "ml" },
+    { "name": "Œufs", "amount": 2, "unit": "" },
+    { "name": "Sucre", "amount": 2, "unit": "tbsp" },
+    { "name": "Levure chimique", "amount": 2, "unit": "tsp" },
+    { "name": "Sel", "amount": 1, "unit": "pinch" },
+    { "name": "Beurre fondu", "amount": 40, "unit": "g" },
+    { "name": "Extrait de vanille", "amount": 1, "unit": "tsp" }
   ],
   "steps": [
-    "In a large bowl, whisk together the flour, sugar, baking powder and salt.",
-    "In a separate bowl, beat the eggs, then whisk in the milk, melted butter and vanilla extract.",
-    "Pour the wet ingredients into the dry ingredients and whisk until just combined — a few small lumps are fine, do not overmix.",
-    "Heat a non-stick pan over medium heat and lightly grease it. Pour in a small ladle of batter per pancake.",
-    "Cook for 2-3 minutes until bubbles form on the surface, then flip and cook for another 1-2 minutes until golden.",
-    "Stack the pancakes and serve warm with your favourite toppings."
+    "Dans un grand bol, mélanger la farine, le sucre, la levure chimique et le sel.",
+    "Dans un autre bol, battre les œufs puis incorporer le lait, le beurre fondu et la vanille.",
+    "Verser les ingrédients liquides sur les ingrédients secs et mélanger jusqu'à obtenir une pâte homogène — quelques grumeaux sont normaux, ne pas trop travailler la pâte.",
+    "Chauffer une poêle antiadhésive à feu moyen et la graisser légèrement. Verser une petite louche de pâte par pancake.",
+    "Cuire 2 à 3 minutes jusqu'à ce que des bulles se forment en surface, puis retourner et cuire encore 1 à 2 minutes jusqu'à dorure.",
+    "Empiler les pancakes et servir chaud avec la garniture de votre choix."
   ],
-  "footnote": "For extra fluffiness, let the batter rest for 10 minutes before cooking and avoid pressing the pancakes with the spatula."
+  "footnote": "Pour des pancakes encore plus aériens, laisser reposer la pâte 10 minutes avant la cuisson et ne jamais appuyer dessus avec la spatule."
 }

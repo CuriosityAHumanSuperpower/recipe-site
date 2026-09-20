@@ -1,32 +1,32 @@
 {
   "id": "peanut-butter-chickpea-stew",
-  "title": "Peanut Butter & Chickpea Stew",
-  "description": "A quick, creamy one-pot stew where peanut butter and tomato sauce melt together into a rich, comforting sauce for chickpeas, vegetables and rice.",
-  "tags": ["vegan", "vegetarian", "meal", "dinner", "gluten-free"],
+  "title": "Ragoût de Pois Chiches au Beurre de Cacahuète",
+  "description": "Un ragoût crémeux et réconfortant en une seule casserole, où le beurre de cacahuète et la sauce tomate se fondent en une sauce riche et généreuse autour des pois chiches, des légumes et du riz.",
+  "tags": ["végétalien", "végétarien", "plat", "dîner", "sans gluten"],
   "category": "main",
-  "sortKey": "Stew",
+  "sortKey": "Ragoût",
   "baseServings": 2,
   "prepTime": 10,
   "cookTime": 20,
   "createdAt": "2026-06-30",
   "ingredients": [
-    { "name": "Chickpeas, tinned and drained", "amount": 250, "unit": "g" },
-    { "name": "Basmati rice (raw weight)", "amount": 100, "unit": "g" },
-    { "name": "Peanut butter", "amount": 40, "unit": "g" },
-    { "name": "Tomato sauce (100% tomato, no added sugar)", "amount": 200, "unit": "g" },
-    { "name": "Fresh or frozen vegetables (broccoli, green beans, spinach...)", "amount": 125, "unit": "g" },
-    { "name": "Onion", "amount": 1, "unit": "" },
-    { "name": "Garlic clove", "amount": 1, "unit": "" },
-    { "name": "Salt", "amount": 1, "unit": "tsp" },
-    { "name": "Black pepper", "amount": 0.25, "unit": "tsp" },
+    { "name": "Pois chiches en boîte, égouttés", "amount": 250, "unit": "g" },
+    { "name": "Riz basmati (poids cru)", "amount": 100, "unit": "g" },
+    { "name": "Beurre de cacahuète", "amount": 40, "unit": "g" },
+    { "name": "Sauce tomate (100 % tomate)", "amount": 200, "unit": "g" },
+    { "name": "Légumes frais ou surgelés (brocoli, haricots verts, épinards…)", "amount": 125, "unit": "g" },
+    { "name": "Oignon", "amount": 1, "unit": "" },
+    { "name": "Gousse d'ail", "amount": 1, "unit": "" },
+    { "name": "Sel", "amount": 1, "unit": "tsp" },
+    { "name": "Poivre noir", "amount": 0.25, "unit": "tsp" },
     { "name": "Paprika", "amount": 1, "unit": "tsp" }
   ],
   "steps": [
-    "Cook the rice according to the packet instructions in salted water, then drain and set aside.",
-    "Meanwhile, finely chop the onion and garlic. Heat a little oil in a pot over medium heat and sauté them for 3-4 minutes until soft.",
-    "Stir in the paprika and cook for 30 seconds until fragrant, then add the tomato sauce and peanut butter. Stir until the peanut butter has melted into the sauce.",
-    "Add the chickpeas and the vegetables (if using frozen, no need to thaw first). Simmer for 10-12 minutes, stirring occasionally, until the vegetables are tender and the sauce has thickened.",
-    "Season with the salt and pepper, adjust to taste, and serve hot over the rice."
+    "Cuire le riz selon les instructions du paquet dans de l'eau salée, puis égoutter et réserver.",
+    "Émincer finement l'oignon et l'ail. Chauffer un filet d'huile dans une casserole à feu moyen et les faire revenir 3 à 4 minutes jusqu'à ce qu'ils soient fondants.",
+    "Ajouter le paprika et cuire 30 secondes jusqu'à ce qu'il soit parfumé, puis incorporer la sauce tomate et le beurre de cacahuète. Remuer jusqu'à ce que le beurre de cacahuète soit bien fondu dans la sauce.",
+    "Ajouter les pois chiches et les légumes (si surgelés, inutile de les décongeler au préalable). Laisser mijoter 10 à 12 minutes en remuant de temps en temps, jusqu'à ce que les légumes soient tendres et la sauce épaisse.",
+    "Saler, poivrer, rectifier l'assaisonnement et servir chaud sur le riz."
   ],
-  "footnote": "Quantities here are sized for about 2 servings — scale up using the servings control if you're cooking for more. Using dried chickpeas instead of tinned: soak 125 g overnight and simmer until tender before adding to the stew, which will add roughly an hour to the prep. Spice amounts (salt, pepper, paprika) are a starting point — adjust to taste."
+  "footnote": "Si vous utilisez des pois chiches secs, faire tremper 125 g la veille et cuire jusqu'à tendreté avant de les ajouter à la sauce. Les doses de sel, poivre et paprika sont indicatives — à ajuster selon le goût."
 }

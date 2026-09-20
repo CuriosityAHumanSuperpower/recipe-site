@@ -2,13 +2,13 @@
   "id": "salmorejo",
   "title": "Salmorejo",
   "description": "La soupe froide de Cordoue — plus épaisse et crémeuse que le gazpacho, avec seulement de la tomate, du pain rassis et de l'huile d'olive. Servi avec des œufs durs et du jambon cru.",
-  "tags": ["starter", "cold", "summer"],
+  "tags": ["entrée", "froid", "été"],
   "category": "starter",
   "sortKey": "Salmorejo",
   "baseServings": 4,
   "prepTime": 15,
   "cookTime": 0,
-  "createdAt": "2026-07-14",
+  "createdAt": "2026-06-30",
   "ingredients": [
     { "name": "Tomates bien mûres", "amount": 1000, "unit": "g" },
     { "name": "Pain blanc rassis (sans croûte)", "amount": 150, "unit": "g" },
@@ -20,7 +20,7 @@
     { "name": "Jambon serrano ou ibérique, en lanières (pour servir)", "amount": 80, "unit": "g" }
   ],
   "steps": [
-    "Couper les tomates en quartiers. Mixer les tomates avec l'ail et le sel jusqu'à obtenir un jus lisse. Si vos tomates ont la peau épaisse, passer au tamis fin pour une texture parfaitement lisse.",
+    "Couper les tomates en quartiers. Mixer avec l'ail et le sel jusqu'à obtenir un jus lisse. Si les tomates ont la peau épaisse, passer au tamis fin pour une texture parfaitement lisse.",
     "Émietter le pain et l'incorporer dans le mixer avec le jus de tomate. Laisser reposer 5 minutes pour que le pain s'imbibe bien, puis mixer à nouveau jusqu'à obtenir une purée très homogène.",
     "Le moteur du mixer tournant, verser l'huile d'olive en filet lent et régulier — comme pour une mayonnaise. L'émulsion doit épaissir et prendre une teinte orangée crémeuse.",
     "Ajouter le vinaigre de Xérès, goûter et ajuster sel et vinaigre. La soupe doit être bien assaisonnée et légèrement acidulée.",

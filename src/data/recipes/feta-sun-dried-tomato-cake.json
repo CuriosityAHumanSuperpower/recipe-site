@@ -1,8 +1,8 @@
 {
   "id": "feta-sun-dried-tomato-cake",
-  "title": "Feta & Sun-Dried Tomato Savoury Cake",
-  "description": "A moist, golden savoury loaf studded with crumbled feta, jammy sun-dried tomatoes and black olives. Equally good warm from the oven, at room temperature, or sliced cold the next day.",
-  "tags": ["vegetarian", "snack", "starter"],
+  "title": "Cake Feta & Tomates Séchées",
+  "description": "Un cake salé moelleux et doré, parsemé de feta émiettée, de tomates séchées fondantes et d'olives noires. Aussi bon chaud à la sortie du four, à température ambiante en apéritif, ou tranché froid le lendemain.",
+  "tags": ["végétarien", "apéritif"],
   "category": "snack",
   "sortKey": "Cake",
   "baseServings": 6,
@@ -10,25 +10,25 @@
   "cookTime": 45,
   "createdAt": "2026-07-25",
   "ingredients": [
-    { "name": "Flour", "amount": 200, "unit": "g" },
-    { "name": "Baking powder", "amount": 11, "unit": "g" },
-    { "name": "Eggs", "amount": 3, "unit": "" },
-    { "name": "Whole milk", "amount": 100, "unit": "ml" },
-    { "name": "Neutral oil (sunflower or mild olive oil)", "amount": 80, "unit": "ml" },
-    { "name": "Feta, crumbled", "amount": 200, "unit": "g" },
-    { "name": "Sun-dried tomatoes in oil, drained and roughly chopped", "amount": 100, "unit": "g" },
-    { "name": "Black olives, pitted and halved", "amount": 80, "unit": "g" },
-    { "name": "Fresh basil leaves, torn", "amount": 15, "unit": "" },
-    { "name": "Black pepper", "amount": 0.5, "unit": "tsp" },
-    { "name": "Salt", "amount": 0.25, "unit": "tsp" }
+    { "name": "Farine", "amount": 200, "unit": "g" },
+    { "name": "Levure chimique", "amount": 11, "unit": "g" },
+    { "name": "Œufs", "amount": 3, "unit": "" },
+    { "name": "Lait entier", "amount": 100, "unit": "ml" },
+    { "name": "Huile neutre (tournesol ou huile d'olive douce)", "amount": 80, "unit": "ml" },
+    { "name": "Feta émiettée", "amount": 200, "unit": "g" },
+    { "name": "Tomates séchées à l'huile, égouttées et grossièrement hachées", "amount": 100, "unit": "g" },
+    { "name": "Olives noires dénoyautées, coupées en deux", "amount": 80, "unit": "g" },
+    { "name": "Feuilles de basilic frais, déchirées", "amount": 15, "unit": "" },
+    { "name": "Poivre noir", "amount": 0.5, "unit": "tsp" },
+    { "name": "Sel", "amount": 0.25, "unit": "tsp" }
   ],
   "steps": [
-    "Preheat the oven to 180°C (fan). Butter and flour a standard loaf tin (about 25 × 10 cm), or line it with baking paper.",
-    "In a large bowl, whisk together the eggs, milk and oil until combined.",
-    "Sift in the flour and baking powder and fold until just combined — do not overmix.",
-    "Fold in the crumbled feta, sun-dried tomatoes, olives, basil and black pepper. Taste before adding salt — feta and olives are already salty.",
-    "Pour the batter into the prepared tin and smooth the top. Bake for 40-45 minutes until a skewer inserted in the centre comes out clean and the top is deep golden.",
-    "Leave to cool in the tin for 10 minutes before turning out. Serve warm or at room temperature."
+    "Préchauffer le four à 180 °C (chaleur tournante). Beurrer et fariner un moule à cake standard (environ 25 × 10 cm) ou le chemiser de papier cuisson.",
+    "Dans un grand bol, fouetter les œufs avec le lait et l'huile jusqu'à ce que le mélange soit homogène.",
+    "Tamiser la farine et la levure chimique sur le mélange et incorporer délicatement à la maryse sans trop travailler la pâte.",
+    "Ajouter la feta, les tomates séchées, les olives, le basilic et le poivre noir. Goûter avant de saler — la feta et les olives apportent déjà beaucoup de sel.",
+    "Verser la pâte dans le moule et lisser le dessus. Enfourner 40 à 45 minutes jusqu'à ce qu'un couteau planté au centre ressorte propre et que le dessus soit bien doré.",
+    "Laisser refroidir 10 minutes dans le moule avant de démouler. Servir tiède ou à température ambiante."
   ],
-  "footnote": "Sun-dried tomatoes in oil give a softer, jammier result than the dry-packed kind. Pat them dry before chopping to keep the crumb from becoming greasy. The cake keeps well wrapped for 2 days at room temperature, or up to 4 days in the fridge."
+  "footnote": "Les tomates séchées à l'huile donnent un résultat plus moelleux que les tomates séchées sèches. Les éponger avant de les hacher pour éviter que la mie ne devienne grasse. Se conserve 2 jours à température ambiante bien emballé, ou jusqu'à 4 jours au réfrigérateur."
 }

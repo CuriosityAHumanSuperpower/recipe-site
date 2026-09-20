@@ -1,10 +1,13 @@
 [
-  "breakfast",
-  "drink",
-  "meal",
-  "dinner",
-  "vegetarian",
-  "vegan",
-  "gluten-free",
-  "sweet"
+  "petit-déjeuner",
+  "entrée",
+  "plat",
+  "dîner",
+  "végétarien",
+  "végétalien",
+  "sans gluten",
+  "sucré",
+  "froid",
+  "été",
+  "apéritif"
 ]

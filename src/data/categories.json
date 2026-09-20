@@ -1,9 +1,9 @@
 [
-  { "id": "breakfast", "label": "Breakfast" },
-  { "id": "starter", "label": "Starter" },
-  { "id": "main", "label": "Main" },
-  { "id": "side", "label": "Side" },
+  { "id": "breakfast", "label": "Petit-déjeuner" },
+  { "id": "starter", "label": "Entrée" },
+  { "id": "main", "label": "Plat" },
+  { "id": "side", "label": "Accompagnement" },
   { "id": "dessert", "label": "Dessert" },
-  { "id": "snack", "label": "Snack" },
-  { "id": "drink", "label": "Drink" }
+  { "id": "snack", "label": "Apéritif & Encas" },
+  { "id": "drink", "label": "Boisson" }
 ]

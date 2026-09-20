@@ -1,30 +1,30 @@
 {
   "id": "miso-peanut-glazed-onions",
-  "title": "Miso & Peanut Glazed Onions",
-  "description": "Soft, deeply caramelised onions coated in a sticky miso-peanut glaze with a soy kick. A rich, umami-loaded side that transforms a simple bowl of rice, pasta or couscous.",
-  "tags": ["vegetarian", "vegan", "side"],
+  "title": "Oignons Caramélisés Miso & Cacahuète",
+  "description": "Des oignons longuement caramélisés, nappés d'un glaçage miso-cacahuète-soja à la fois crémeux, sucré et umami. Un accompagnement qui transforme un simple bol de riz, de pâtes ou de semoule.",
+  "tags": ["végétarien", "végétalien", "sans gluten"],
   "category": "side",
-  "sortKey": "Onions",
+  "sortKey": "Oignons",
   "baseServings": 4,
   "prepTime": 5,
   "cookTime": 30,
   "createdAt": "2026-06-30",
   "ingredients": [
-    { "name": "Onions", "amount": 4, "unit": "" },
-    { "name": "Peanut butter", "amount": 3, "unit": "tbsp" },
-    { "name": "White or yellow miso paste", "amount": 2, "unit": "tbsp" },
-    { "name": "Soy sauce", "amount": 2, "unit": "tbsp" },
-    { "name": "Sesame oil", "amount": 1, "unit": "tbsp" },
-    { "name": "Neutral oil (sunflower or rapeseed)", "amount": 1, "unit": "tbsp" },
-    { "name": "Warm water", "amount": 4, "unit": "tbsp" },
-    { "name": "Garlic cloves", "amount": 2, "unit": "" }
+    { "name": "Oignons", "amount": 4, "unit": "" },
+    { "name": "Beurre de cacahuète", "amount": 3, "unit": "tbsp" },
+    { "name": "Pâte miso blanche ou jaune", "amount": 2, "unit": "tbsp" },
+    { "name": "Sauce soja", "amount": 2, "unit": "tbsp" },
+    { "name": "Huile de sésame", "amount": 1, "unit": "tbsp" },
+    { "name": "Huile neutre (tournesol ou colza)", "amount": 1, "unit": "tbsp" },
+    { "name": "Eau chaude", "amount": 4, "unit": "tbsp" },
+    { "name": "Gousses d'ail", "amount": 2, "unit": "" }
   ],
   "steps": [
-    "Peel and halve the onions, then slice them thinly into half-moons.",
-    "In a small bowl, whisk together the peanut butter, miso, soy sauce and warm water until you get a smooth, pourable sauce.",
-    "Heat the neutral oil and sesame oil together in a wide pan over medium heat. Add the onions and cook for 20-25 minutes, stirring regularly, until deeply golden and very soft. Add the sliced garlic for the last 5 minutes.",
-    "Pour the miso-peanut sauce over the onions and stir to coat everything evenly. Cook for another 3-4 minutes on low heat, stirring, until the sauce is thick and glossy and clings to the onions.",
-    "Serve immediately over rice, pasta, soba noodles or couscous."
+    "Éplucher les oignons, les couper en deux puis les émincer finement en demi-lunes.",
+    "Dans un petit bol, fouetter le beurre de cacahuète, le miso, la sauce soja et l'eau chaude jusqu'à obtenir une sauce lisse et versable.",
+    "Chauffer les deux huiles dans une grande poêle à feu moyen. Ajouter les oignons et cuire 20 à 25 minutes en remuant régulièrement, jusqu'à ce qu'ils soient profondément dorés et très fondants. Ajouter l'ail émincé pour les 5 dernières minutes.",
+    "Verser la sauce miso-cacahuète sur les oignons et mélanger pour bien enrober. Cuire encore 3 à 4 minutes à feu doux en remuant, jusqu'à ce que la sauce soit épaisse, brillante et accroche bien aux oignons.",
+    "Servir immédiatement sur du riz, des pâtes, des nouilles soba ou de la semoule."
   ],
-  "footnote": "White miso gives a milder, sweeter result; red or dark miso is more intense. The sauce thickens quickly once it hits the hot pan — keep stirring and add a splash of water if it catches."
+  "footnote": "Le miso blanc donne un résultat plus doux et sucré ; le miso rouge ou foncé est plus intense et salé. La sauce épaissit très vite au contact de la poêle chaude — remuer sans cesse et ajouter un filet d'eau si elle accroche."
 }

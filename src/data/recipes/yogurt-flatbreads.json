@@ -1,25 +1,25 @@
 {
   "id": "yogurt-flatbreads",
-  "title": "Yogurt Flatbreads",
-  "description": "Two-ingredient dough — just yogurt and flour — that comes together in minutes and cooks in a dry pan. Soft, slightly chewy, and ready to eat warm straight off the hob.",
-  "tags": ["vegetarian", "breakfast", "snack"],
+  "title": "Pains Plats au Yaourt",
+  "description": "Une pâte en deux ingrédients — yaourt et farine — prête en quelques minutes et cuite à sec dans une poêle. Souple, légèrement moelleux, à manger chaud à la sortie du feu.",
+  "tags": ["végétarien", "petit-déjeuner", "apéritif"],
   "category": "snack",
-  "sortKey": "Flatbreads",
+  "sortKey": "Pains Plats",
   "baseServings": 6,
   "prepTime": 10,
   "cookTime": 15,
   "createdAt": "2026-06-30",
   "ingredients": [
-    { "name": "Plain yogurt (full fat)", "amount": 300, "unit": "g" },
-    { "name": "Flour (all-purpose)", "amount": 300, "unit": "g" },
-    { "name": "Baking powder", "amount": 1, "unit": "tsp" },
-    { "name": "Salt", "amount": 0.5, "unit": "tsp" }
+    { "name": "Yaourt nature entier", "amount": 300, "unit": "g" },
+    { "name": "Farine (type 55)", "amount": 300, "unit": "g" },
+    { "name": "Levure chimique", "amount": 1, "unit": "tsp" },
+    { "name": "Sel", "amount": 0.5, "unit": "tsp" }
   ],
   "steps": [
-    "Combine the flour, baking powder and salt in a bowl. Add the yogurt and mix with a fork, then knead briefly with your hands until you have a soft, slightly sticky dough. Do not overwork it.",
-    "Divide the dough into 6 equal balls. On a lightly floured surface, roll each one out thinly to about 3-4 mm thick.",
-    "Heat a dry cast-iron or non-stick pan over high heat until very hot. Cook each flatbread for 1-2 minutes per side until dark spots appear and the bread puffs slightly. No oil needed.",
-    "Stack the cooked flatbreads under a clean cloth to keep them soft, and serve warm."
+    "Mélanger la farine, la levure chimique et le sel dans un bol. Ajouter le yaourt et mélanger à la fourchette, puis pétrir brièvement à la main jusqu'à obtenir une pâte souple et légèrement collante. Ne pas trop travailler.",
+    "Diviser la pâte en 6 boules égales. Sur un plan de travail légèrement fariné, abaisser chaque boule à environ 3 à 4 mm d'épaisseur.",
+    "Chauffer une poêle en fonte ou antiadhésive à feu vif jusqu'à ce qu'elle soit très chaude. Cuire chaque pain 1 à 2 minutes par face, sans huile, jusqu'à l'apparition de taches dorées et un léger gonflement.",
+    "Empiler les pains cuits sous un linge propre pour les garder souples, et servir chaud."
   ],
-  "footnote": "Full-fat yogurt gives the best texture — low-fat versions make the dough too wet and the flatbreads less tender. The dough can be made a few hours ahead and kept covered in the fridge; bring it back to room temperature before rolling."
+  "footnote": "Un yaourt entier donne une pâte plus tendre — les yaourts allégés rendent la pâte trop humide. La pâte se prépare quelques heures à l'avance et se garde couverte au réfrigérateur ; la remettre à température ambiante avant d'étaler."
 }

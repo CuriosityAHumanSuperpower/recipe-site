@@ -1,8 +1,8 @@
 {
   "id": "swedish-oat-lace-cookies",
-  "title": "Swedish Oat Lace Cookies (Havreflarn)",
-  "description": "Thin, crisp Swedish oat cookies, the kind you find at Ikea's bistro — lacy and golden, delicious on their own or sandwiched in pairs around tempered chocolate.",
-  "tags": ["dessert", "vegetarian", "sweet"],
+  "title": "Havreflarn — Galettes Suédoises à l'Avoine",
+  "description": "Les fines galettes croustillantes à l'avoine du bistrot Ikea — légères et dorées, délicieuses seules ou sandwichées deux par deux avec du chocolat tempéré.",
+  "tags": ["végétarien", "sucré"],
   "category": "dessert",
   "sortKey": "Havreflarn",
   "baseServings": 100,
@@ -10,28 +10,27 @@
   "cookTime": 8,
   "createdAt": "2026-06-30",
   "ingredients": [
-    { "name": "Rolled oats", "amount": 200, "unit": "g" },
-    { "name": "Sugar", "amount": 300, "unit": "g" },
-    { "name": "Firm baking margarine", "amount": 180, "unit": "g" },
-    { "name": "Flour", "amount": 70, "unit": "g" },
-    { "name": "Liquid vanilla extract", "amount": 0.5, "unit": "tsp" },
-    { "name": "Large egg (about 60 g)", "amount": 1, "unit": "" },
-    { "name": "Salt", "amount": 1, "unit": "pinch" },
-    { "name": "Baking powder", "amount": 0.25, "unit": "tsp" },
-    { "name": "Tempered dark chocolate (optional, for double cookies)", "amount": 350, "unit": "g" },
-    { "name": "Cocoa butter (Mycryo, optional, for tempering)", "amount": 4, "unit": "g" }
+    { "name": "Flocons d'avoine", "amount": 200, "unit": "g" },
+    { "name": "Sucre", "amount": 300, "unit": "g" },
+    { "name": "Margarine spéciale cuisson", "amount": 180, "unit": "g" },
+    { "name": "Farine", "amount": 70, "unit": "g" },
+    { "name": "Extrait de vanille liquide", "amount": 0.5, "unit": "tsp" },
+    { "name": "Œuf (environ 60 g)", "amount": 1, "unit": "" },
+    { "name": "Sel", "amount": 1, "unit": "pinch" },
+    { "name": "Levure chimique", "amount": 0.25, "unit": "tsp" },
+    { "name": "Chocolat de couverture noir tempéré (pour les doubles)", "amount": 350, "unit": "g" },
+    { "name": "Beurre de cacao Mycryo (pour le tempérage, optionnel)", "amount": 4, "unit": "g" }
   ],
   "steps": [
-    "Blitz the rolled oats in a food processor for about 40 seconds, until you get a coarse (not too fine) powder.",
-    "In a bowl, combine the oat powder with the sugar and salt.",
-    "Add the flour and mix well.",
-    "Melt the margarine (microwave or bain-marie), then stir it into the dry mixture until well combined.",
-    "Add the egg and the vanilla extract, mixing until smooth. Once the batter has cooled slightly, fold in the baking powder.",
-    "Cover and chill the batter in the fridge for at least 2 hours, ideally overnight — this makes it much easier to portion.",
-    "Preheat the oven to around 190-200°C. Line a baking tray with parchment paper and portion the chilled batter into small balls of about 8 g each, spaced well apart (they spread a lot) — no need to flatten them, they melt into shape on their own.",
-    "Bake one tray at a time for 7-8 minutes, watching closely: they're ready when golden around the edge and slightly paler in the centre. Adjust time/temperature slightly to your oven — the goal is a cookie that turns crisp all the way through once cooled.",
-    "Let the cookies cool completely and firm up on a wire rack before handling — they're fragile while warm.",
-    "For double cookies: temper the chocolate (with the cocoa butter, if using) or simply melt it. Dip the underside of one cookie in the chocolate, almost up to the edge, then sandwich it with a plain cookie. Let the chocolate set before serving."
+    "Mixer les flocons d'avoine environ 40 secondes au robot pour obtenir une poudre grossière — pas trop fine.",
+    "Dans un bol, mélanger la poudre d'avoine avec le sucre et le sel, puis incorporer la farine.",
+    "Faire fondre la margarine (au micro-ondes ou au bain-marie), puis l'incorporer au mélange sec jusqu'à homogénéité.",
+    "Ajouter l'œuf et la vanille, mélanger. Une fois la pâte légèrement refroidie, incorporer la levure chimique.",
+    "Couvrir et réfrigérer la pâte au minimum 2 heures, idéalement une nuit entière — la pâte froide est beaucoup plus facile à portionner.",
+    "Préchauffer le four à 190-200 °C. Tapisser une plaque de papier cuisson. Former des petites boules d'environ 8 g, bien espacées (elles s'étalent beaucoup) — inutile de les aplatir. Cuire une plaque à la fois.",
+    "Enfourner 7 à 8 minutes en surveillant de près : les galettes sont prêtes quand elles sont dorées sur les bords et légèrement plus pâles au centre. Ajuster la température et le temps selon votre four — l'objectif est une galette qui durcit complètement en refroidissant.",
+    "Laisser refroidir entièrement sur une grille avant de manipuler — elles sont très fragiles chaudes.",
+    "Pour les galettes doubles : tempérer le chocolat avec le beurre de cacao si vous l'utilisez, ou simplement le faire fondre. Tremper le dessous d'une galette dans le chocolat presque jusqu'au bord, puis l'assembler avec une galette nature. Laisser figer avant de servir."
   ],
-  "footnote": "Recipe adapted from lacuisinedebernard.com's Havreflarn (a clone of the Ikea bistro cookie). Makes about 100 single cookies, or 50 double cookies if sandwiching pairs with chocolate. The base recipe doubles or halves easily via the servings control — it scales the same way as any other ingredient list here. Use a firm cooking margarine rather than butter for the most authentic texture; butter works but gives a noticeably different flavour."
+  "footnote": "La margarine de cuisson donne une texture plus proche de l'original qu'avec du beurre. Le repos au frigo est indispensable : une pâte trop chaude donne des galettes qui partent dans tous les sens à la cuisson. Les bases se décuplent ou divisent facilement via le curseur de portions."
 }

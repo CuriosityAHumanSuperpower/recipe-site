@@ -1,0 +1,32 @@
+{
+  "id": "lasagnes-aux-champignons",
+  "title": "Lasagnes aux champignons",
+  "description": "De délicieuses lasagnes légères aux champignons de saison, nappées d'une béchamel parfumée à la muscade et au gruyère.",
+  "tags": ["végétarien", "plat-principal"],
+  "category": "main",
+  "sortKey": "Lasagnes aux champignons",
+  "baseServings": 4,
+  "prepTime": 20,
+  "cookTime": 55,
+  "createdAt": "2026-09-20",
+  "ingredients": [
+    { "name": "plaques de lasagnes (rayon frais ou faites maison)", "amount": 6, "unit": "" },
+    { "name": "champignons de Paris ou pleurotes, cèpes, girolles…", "amount": 800, "unit": "g" },
+    { "name": "persil frais ou surgelé", "amount": 1, "unit": "c. à s." },
+    { "name": "gousses d’ail", "amount": 2, "unit": "" },
+    { "name": "oignon", "amount": 100, "unit": "g" },
+    { "name": "lait demi-écrémé ou de lait de soja", "amount": 60, "unit": "cl" },
+    { "name": "Maïzena", "amount": 50, "unit": "g" },
+    { "name": "gruyère râpé", "amount": 40, "unit": "g" },
+    { "name": "huile", "amount": 1, "unit": "c. à c." },
+    { "name": "muscade", "amount": 1, "unit": "pincée" },
+    { "name": "sel", "amount": 1, "unit": "pincée" },
+    { "name": "poivre", "amount": 1, "unit": "pincée" }
+  ],
+  "steps": [
+    "Lavez, essuyez et émincez les champignons. Épluchez et écrasez l’ail. Pelez et émincez finement les oignons. Faites cuire à feu doux sans couvrir les champignons avec l’ail et l’oignon pendant 10 à 15 minutes, vérifiez la cuisson des champignons, videz l’eau qui se dégage, ajoutez sel, poivre et persil.",
+    "Délayez la Maïzena à froid avec le lait et faites épaissir à feu doux en tournant avec une cuillère en bois. Après épaississement, laissez cuire 2 minutes, sans cesser de remuer, ajoutez sel et muscade.",
+    "Préchauffez le four à 210 °C (th. 7). Huilez un plat à four, déposez au fond deux plaques de lasagnes, disposez dessus la moitié des champignons cuits, puis un tiers de la béchamel, déposez à nouveau deux plaques de lasagnes, répartissez la seconde moitié de champignons, puis un autre tiers de la béchamel, déposez enfin les deux dernières plaques de lasagnes et finissez par le reste de béchamel dans lequel vous aurez ajouté le gruyère râpé.",
+    "Passez au four pendant 35 à 45 minutes."
+  ]
+}

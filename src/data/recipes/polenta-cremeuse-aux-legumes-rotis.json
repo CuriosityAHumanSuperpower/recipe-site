@@ -1,0 +1,35 @@
+{
+  "id": "polenta-cremeuse-aux-legumes-rotis",
+  "title": "Polenta crémeuse aux légumes rôtis",
+  "description": "Une polenta très onctueuse au parmesan, surmontée de légumes d'automne rôtis au four, de noisettes grillées et d'une touche de pesto de persil.",
+  "tags": ["végétarien", "main", "dîner"],
+  "category": "main",
+  "sortKey": "Polenta crémeuse aux légumes rôtis",
+  "baseServings": 4,
+  "prepTime": 20,
+  "cookTime": 45,
+  "createdAt": "2026-09-20",
+  "ingredients": [
+    { "name": "mini-carottes (ou 2 carottes)", "amount": 8, "unit": "" },
+    { "name": "fenouil", "amount": 0.5, "unit": "" },
+    { "name": "oignon rouge", "amount": 1, "unit": "" },
+    { "name": "tête d’ail", "amount": 1, "unit": "" },
+    { "name": "noisettes", "amount": 1, "unit": "poignée" },
+    { "name": "pesto de persil", "amount": 4, "unit": "c. à s." },
+    { "name": "polenta", "amount": 180, "unit": "g" },
+    { "name": "lait", "amount": 1, "unit": "l" },
+    { "name": "parmesan fraîchement râpé", "amount": 50, "unit": "g" },
+    { "name": "huile d’olive", "amount": 0, "unit": "" },
+    { "name": "sel du moulin", "amount": 0, "unit": "" },
+    { "name": "poivre du moulin", "amount": 0, "unit": "" }
+  ],
+  "steps": [
+    "Préchauffez le four à 180 °C (th. 6).",
+    "Grattez les carottes sous un filet d’eau et coupez-les en deux dans la longueur. Ôtez les premières feuilles du fenouil et coupez-le en lamelles. Épluchez l’oignon et émincez-le. Détachez les gousses de la tête d’ail en gardant la peau.",
+    "Déposez les légumes dans un saladier. Arrosez-les d’un filet d’huile d’olive. Salez et poivrez. Mélangez afin que les légumes et l’ail soient bien enrobés.",
+    "Disposez les légumes et l’ail sur une plaque de cuisson recouverte de papier cuisson. Enfournez et laissez cuire 40 minutes.",
+    "Environ 10 minutes avant la fin de la cuisson, enfournez les noisettes afin de les faire dorer, puis concassez-les.",
+    "Préparez la polenta : Dans une casserole, portez le lait à ébullition avec 1 pincée de sel. Versez la polenta en pluie en remuant avec un fouet. Faites cuire à feu doux jusqu’à ce que la préparation épaississe. Hors du feu, incorporez un filet d’huile d’olive et le parmesan. Poivrez.",
+    "Répartissez la polenta crémeuse dans quatre assiettes creuses. Disposez les légumes rôtis dessus, assaisonnez de pesto de persil et décorez de noisettes concassées."
+  ]
+}

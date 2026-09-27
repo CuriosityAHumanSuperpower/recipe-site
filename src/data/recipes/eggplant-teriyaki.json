@@ -1,0 +1,33 @@
+{
+  "id": "eggplant-teriyaki",
+  "title": "Aubergine Façon Teriyaki",
+  "description": "Des aubergines rôties au four jusqu'à être fondantes, nappées d'un glaçage teriyaki maison sucré-salé au miel, soja, ail et gingembre. Prêt en une heure, végétalien et irrésistible.",
+  "tags": ["végétalien", "végétarien", "plat", "dîner", "sans gluten"],
+  "category": "main",
+  "sortKey": "Aubergine",
+  "baseServings": 2,
+  "prepTime": 10,
+  "cookTime": 40,
+  "createdAt": "2026-09-27",
+  "ingredients": [
+    { "name": "Aubergines", "amount": 2, "unit": "" },
+    { "name": "Gousse d'ail", "amount": 1, "unit": "" },
+    { "name": "Gingembre frais (environ 1 cm)", "amount": 1, "unit": "" },
+    { "name": "Miel (ou sirop d'agave pour une version végétalienne)", "amount": 1, "unit": "tbsp" },
+    { "name": "Sucre de canne", "amount": 1, "unit": "tsp" },
+    { "name": "Sauce soja", "amount": 4, "unit": "tbsp" },
+    { "name": "Fécule de maïs", "amount": 0.5, "unit": "tsp" },
+    { "name": "Eau", "amount": 40, "unit": "ml" },
+    { "name": "Huile neutre", "amount": 1, "unit": "tbsp" },
+    { "name": "Piment (optionnel)", "amount": 1, "unit": "" }
+  ],
+  "steps": [
+    "Préchauffer le four à 200 °C. Couper les aubergines en deux dans la longueur. Quadriller la chair en diagonale avec un couteau, sans percer la peau, pour favoriser la pénétration de la marinade.",
+    "Badigeonner la chair d'huile neutre, saler légèrement. Déposer face chair vers le haut sur une plaque recouverte de papier cuisson. Enfourner 30 à 40 minutes jusqu'à ce que la chair soit très fondante et légèrement dorée.",
+    "Préparer le glaçage teriyaki : râper finement l'ail et le gingembre. Dans une petite casserole, mélanger la sauce soja, le miel, le sucre de canne, l'ail, le gingembre et le piment émincé si utilisé. Délayer la fécule de maïs dans l'eau froide puis l'incorporer au mélange.",
+    "Porter à feu moyen en remuant sans cesse jusqu'à ce que la sauce épaississe et devienne brillante (environ 2 à 3 minutes). Retirer du feu dès qu'elle nappe la cuillère.",
+    "Sortir les aubergines du four, napper généreusement de glaçage teriyaki sur toute la chair. Remettre au four 5 minutes pour que le glaçage caramélise légèrement.",
+    "Servir chaud, sur du riz blanc ou des nouilles, avec le reste de sauce à part."
+  ],
+  "footnote": "Le quadrillage de la chair est important : il permet à la sauce de s'infiltrer en profondeur plutôt que de rester en surface. Remplacer le miel par du sirop d'agave pour une version 100 % végétalienne."
+}

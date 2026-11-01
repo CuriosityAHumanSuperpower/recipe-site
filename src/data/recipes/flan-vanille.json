@@ -1,0 +1,33 @@
+{
+  "id": "flan-vanille",
+  "title": "Flan Pâtissier à la Vanille",
+  "description": "Le flan parisien traditionnel : une crème épaisse infusée à la vanille et parfumée au rhum, cuite sur une pâte feuilletée, dorée en surface et tremblante au centre.",
+  "tags": ["végétarien", "sucré"],
+  "category": "dessert",
+  "sortKey": "Flan",
+  "baseServings": 8,
+  "prepTime": 30,
+  "cookTime": 50,
+  "createdAt": "2026-10-28",
+  "ingredients": [
+    { "name": "Lait entier", "amount": 1, "unit": "l" },
+    { "name": "Gousses de vanille", "amount": 2, "unit": "" },
+    { "name": "Œufs entiers", "amount": 3, "unit": "" },
+    { "name": "Jaunes d'œufs", "amount": 3, "unit": "" },
+    { "name": "Sucre en poudre", "amount": 130, "unit": "g" },
+    { "name": "Fécule de maïs (Maïzena)", "amount": 95, "unit": "g" },
+    { "name": "Rhum brun", "amount": 1, "unit": "tbsp" },
+    { "name": "Pâte feuilletée pur beurre, prête à dérouler", "amount": 1, "unit": "" }
+  ],
+  "steps": [
+    "Fendre les gousses de vanille en deux dans la longueur et gratter les graines avec la pointe d'un couteau. Verser le lait dans une casserole, ajouter les gousses et les graines, puis chauffer à feu doux 15 minutes, sans laisser bouillir. Retirer du feu, couvrir et laisser infuser 10 minutes de plus.",
+    "Préchauffer le four à 200 °C (chaleur tournante 180 °C). Dérouler la pâte feuilletée dans un moule à tarte de 26 à 28 cm de diamètre, en la laissant dépasser légèrement. Piquer le fond à la fourchette et réserver au frais.",
+    "Dans un grand saladier, fouetter les 3 œufs entiers et les 3 jaunes avec le sucre jusqu'à ce que le mélange blanchisse. Ajouter la fécule de maïs et fouetter jusqu'à obtenir une pâte lisse, sans grumeaux.",
+    "Retirer les gousses du lait. Verser le lait chaud en filet sur les œufs en fouettant sans cesse. Reverser le tout dans la casserole.",
+    "Cuire à feu moyen en fouettant constamment, jusqu'à ce que la crème épaississe et bouillonne ; compter encore 1 minute de cuisson en fouettant. Hors du feu, incorporer le rhum.",
+    "Laisser tiédir 5 minutes en remuant de temps en temps, puis verser la crème sur la pâte.",
+    "Enfourner 15 minutes à 200 °C, puis baisser à 180 °C (chaleur tournante 160 °C) et poursuivre 30 à 35 minutes, jusqu'à ce que le dessus soit bien doré, avec des taches brunes.",
+    "Laisser refroidir complètement à température ambiante, puis placer au réfrigérateur au moins 4 heures avant de démouler et de couper."
+  ],
+  "footnote": "Ne pas verser la crème sur le fond de tarte encore bouillante : la pâte ramollirait. Les 3 blancs restants se gardent 3 jours au réfrigérateur pour des meringues ou des financiers. Pour un flan plus onctueux, remplacer 20 cl de lait par de la crème liquide entière."
+}

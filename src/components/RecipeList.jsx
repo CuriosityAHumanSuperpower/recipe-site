@@ -1,10 +1,22 @@
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
 import TagFilterRow from './TagFilterRow';
 import RecipeCard from './RecipeCard';
 import CategoryNav from './CategoryNav';
-import { categories } from '../data/recipesIndex';
+import SeasonIcons from './SeasonIcons';
+import { categories, getTagGroups } from '../data/recipesIndex';
 import { useRecipeSearch } from '../utils/useRecipeSearch';
+import { formatDuration, getTimes } from '../utils/scale';
+
+const VIEW_KEY = 'recipe-site-view';
+
+function readView() {
+  try {
+    return localStorage.getItem(VIEW_KEY) === 'list' ? 'list' : 'cards';
+  } catch {
+    return 'cards';
+  }
+}
 
 function groupByCategory(items) {
   const groups = {};
@@ -17,48 +29,77 @@ function groupByCategory(items) {
 }
 
 function RecipeRow({ recipe }) {
+  const { total } = getTimes(recipe);
   return (
     <Link to={`/recipe/${recipe.id}`} className="recipe-row">
       <h3>{recipe.title}</h3>
-      <div className="tag-list">
-        {recipe.tags?.slice(0, 3).map((t) => <span className="tag-chip" key={t}>{t}</span>)}
-      </div>
+      <SeasonIcons recipe={recipe} />
+      {total > 0 && <span className="row-time">{formatDuration(total)}</span>}
     </Link>
   );
 }
 
-export default function RecipeList({ recipes, allTags, query, activeTag, onActiveTagChange }) {
-  const [view, setView] = useState('cards'); // 'cards' | 'list'
+const tagGroups = getTagGroups();
+
+export default function RecipeList({
+  recipes,
+  query,
+  activeTags,
+  onActiveTagsChange,
+  activeCategory,
+  onActiveCategoryChange,
+  onResetFilters,
+}) {
+  const [view, setView] = useState(readView);
+
+  useEffect(() => {
+    try { localStorage.setItem(VIEW_KEY, view); } catch { /* stockage indisponible */ }
+  }, [view]);
 
   const { results } = useRecipeSearch(recipes, query);
-  const filtered = activeTag ? results.filter((r) => r.tags?.includes(activeTag)) : results;
+  const filtered = useMemo(
+    () => results.filter((r) =>
+      (!activeCategory || r.category === activeCategory)
+      && activeTags.every((t) => r.tags?.includes(t))),
+    [results, activeCategory, activeTags.join(',')] // eslint-disable-line react-hooks/exhaustive-deps
+  );
 
   const groups = useMemo(() => groupByCategory(filtered), [filtered]);
   const activeCategoryIds = useMemo(
     () => new Set(categories.filter((c) => groups[c.id]?.length).map((c) => c.id)),
     [groups]
   );
-
-  const handleTagSelect = (tag) => onActiveTagChange(tag);
+  const usedCategories = useMemo(
+    () => categories.filter((c) => recipes.some((r) => r.category === c.id)),
+    [recipes]
+  );
 
   return (
     <div>
+      <TagFilterRow
+        tagGroups={tagGroups}
+        categories={usedCategories}
+        activeTags={activeTags}
+        onTagsChange={onActiveTagsChange}
+        activeCategory={activeCategory}
+        onCategoryChange={onActiveCategoryChange}
+        onReset={onResetFilters}
+      />
+
       <div className="list-controls">
-        <TagFilterRow tags={allTags} activeTag={activeTag} onSelect={handleTagSelect} />
-        <div className="view-toggle">
-          <button type="button" data-active={view === 'cards'} onClick={() => setView('cards')}>Cards</button>
-          <button type="button" data-active={view === 'list'} onClick={() => setView('list')}>List</button>
+        <p className="results-count">
+          {filtered.length} recette{filtered.length !== 1 ? 's' : ''}
+        </p>
+        <div className="view-toggle" role="group" aria-label="Affichage">
+          <button type="button" data-active={view === 'cards'} aria-pressed={view === 'cards'} onClick={() => setView('cards')}>Cartes</button>
+          <button type="button" data-active={view === 'list'} aria-pressed={view === 'list'} onClick={() => setView('list')}>Liste</button>
         </div>
       </div>
 
-      <p className="results-count">
-        {filtered.length} recipe{filtered.length !== 1 ? 's' : ''}
-      </p>
-
       {filtered.length === 0 ? (
         <div className="empty-state">
-          <h3>No recipes found</h3>
-          <p>Try a different search term or clear the tag filter.</p>
+          <h3>Aucune recette trouvée</h3>
+          <p>Essayez un autre mot-clé ou retirez un filtre.</p>
         </div>
       ) : (
         categories.map((c) => {

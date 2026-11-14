@@ -1,8 +1,8 @@
 {
   "id": "spring-pea-asparagus-soup",
-  "title": "Velouté de Petits Pois & Asperges, Toasts Chèvre",
+  "title": "Velouté de petits pois & asperges, toasts au chèvre",
   "description": "Un velouté vert vif et printanier de petits pois et d'asperges parfumé à la menthe, servi avec des toasts à l'ail croustillants garnis de chèvre frais et de piment d'Espelette.",
-  "tags": ["végétarien", "entrée"],
+  "tags": ["végétarien", "printemps"],
   "category": "starter",
   "sortKey": "Velouté",
   "baseServings": 4,
@@ -17,9 +17,9 @@
     { "name": "Tranches de baguette ou pain de campagne", "amount": 8, "unit": "" },
     { "name": "Gousse d'ail (pour frotter les toasts)", "amount": 1, "unit": "" },
     { "name": "Chèvre frais", "amount": 100, "unit": "g" },
-    { "name": "Huile d'olive", "amount": 2, "unit": "tbsp" },
-    { "name": "Piment d'Espelette (ou flocons de piment doux)", "amount": 1, "unit": "pinch" },
-    { "name": "Sel", "amount": 1, "unit": "tsp" }
+    { "name": "Huile d'olive", "amount": 2, "unit": "cuillère à soupe" },
+    { "name": "Piment d'Espelette (ou flocons de piment doux)", "amount": 1, "unit": "pincée" },
+    { "name": "Sel", "amount": 1, "unit": "cuillère à café" }
   ],
   "steps": [
     "Porter une grande casserole d'eau salée à ébullition. Cuire les asperges 3 à 4 minutes jusqu'à ce qu'elles soient juste tendres, les retirer avec une écumoire et les plonger immédiatement dans de l'eau froide pour préserver leur couleur. Cuire les petits pois 2 à 3 minutes dans la même eau, puis égoutter.",

@@ -5,8 +5,8 @@ export default function ThemeToggle({ theme, onToggle }) {
       type="button"
       className="theme-toggle"
       onClick={onToggle}
-      aria-label={isDark ? 'Switch to light mode' : 'Switch to dark mode'}
-      title={isDark ? 'Switch to light mode' : 'Switch to dark mode'}
+      aria-label={isDark ? 'Passer en mode clair' : 'Passer en mode sombre'}
+      title={isDark ? 'Passer en mode clair' : 'Passer en mode sombre'}
     >
       {isDark ? (
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">

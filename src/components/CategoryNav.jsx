@@ -5,7 +5,7 @@ export default function CategoryNav({ categories, activeCategoryIds }) {
   };
 
   return (
-    <nav className="category-nav" aria-label="Jump to section">
+    <nav className="category-nav" aria-label="Aller à la section">
       {categories.map((c) => {
         const enabled = activeCategoryIds.has(c.id);
         return (

@@ -1,8 +1,8 @@
 {
   "id": "fluffy-pancakes",
-  "title": "Pancakes Moelleux",
+  "title": "Pancakes moelleux",
   "description": "Des pancakes légers et aériens à la croûte dorée, prêts en 20 minutes. À servir avec du sirop d'érable, des fruits frais ou un voile de sucre glace.",
-  "tags": ["petit-déjeuner", "végétarien", "sucré"],
+  "tags": ["végétarien", "printemps", "été", "automne", "hiver"],
   "category": "breakfast",
   "sortKey": "Pancakes",
   "baseServings": 4,
@@ -13,11 +13,12 @@
     { "name": "Farine de blé (type 55)", "amount": 250, "unit": "g" },
     { "name": "Lait", "amount": 300, "unit": "ml" },
     { "name": "Œufs", "amount": 2, "unit": "" },
-    { "name": "Sucre", "amount": 2, "unit": "tbsp" },
-    { "name": "Levure chimique", "amount": 2, "unit": "tsp" },
-    { "name": "Sel", "amount": 1, "unit": "pinch" },
+    { "name": "Sucre", "amount": 2, "unit": "cuillère à soupe" },
+    { "name": "Levure chimique", "amount": 2, "unit": "cuillère à café" },
+    { "name": "Sel", "amount": 1, "unit": "pincée" },
     { "name": "Beurre fondu", "amount": 40, "unit": "g" },
-    { "name": "Extrait de vanille", "amount": 1, "unit": "tsp" }
+    { "name": "Extrait de vanille", "amount": 1, "unit": "cuillère à café" },
+    { "name": "Beurre ou huile (pour la poêle)", "amount": null, "unit": "un peu" }
   ],
   "steps": [
     "Dans un grand bol, mélanger la farine, le sucre, la levure chimique et le sel.",

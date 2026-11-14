@@ -1,11 +1,13 @@
 {
   "id": "feta-sun-dried-tomato-cake",
-  "title": "Cake Feta & Tomates Séchées",
+  "title": "Cake feta & tomates séchées",
   "description": "Un cake salé moelleux et doré, parsemé de feta émiettée, de tomates séchées fondantes et d'olives noires. Aussi bon chaud à la sortie du four, à température ambiante en apéritif, ou tranché froid le lendemain.",
-  "tags": ["végétarien", "apéritif"],
+  "tags": ["végétarien", "printemps", "été", "automne", "hiver"],
   "category": "snack",
-  "sortKey": "Cake",
+  "sortKey": "Cake feta",
   "baseServings": 6,
+  "servingsLabel": "Parts",
+  "servingsNote": "Prévu pour un moule à cake d'environ 25 × 10 cm : adaptez la taille du moule et surveillez la cuisson si vous changez le nombre de parts.",
   "prepTime": 15,
   "cookTime": 45,
   "createdAt": "2026-07-25",
@@ -19,14 +21,14 @@
     { "name": "Tomates séchées à l'huile, égouttées et grossièrement hachées", "amount": 100, "unit": "g" },
     { "name": "Olives noires dénoyautées, coupées en deux", "amount": 80, "unit": "g" },
     { "name": "Feuilles de basilic frais, déchirées", "amount": 15, "unit": "" },
-    { "name": "Poivre noir", "amount": 0.5, "unit": "tsp" },
-    { "name": "Sel", "amount": 0.25, "unit": "tsp" }
+    { "name": "Poivre noir", "amount": 0.5, "unit": "cuillère à café" },
+    { "name": "Sel", "amount": 0.25, "unit": "cuillère à café" }
   ],
   "steps": [
     "Préchauffer le four à 180 °C (chaleur tournante). Beurrer et fariner un moule à cake standard (environ 25 × 10 cm) ou le chemiser de papier cuisson.",
     "Dans un grand bol, fouetter les œufs avec le lait et l'huile jusqu'à ce que le mélange soit homogène.",
     "Tamiser la farine et la levure chimique sur le mélange et incorporer délicatement à la maryse sans trop travailler la pâte.",
-    "Ajouter la feta, les tomates séchées, les olives, le basilic et le poivre noir. Goûter avant de saler — la feta et les olives apportent déjà beaucoup de sel.",
+    "Ajouter la feta, les tomates séchées, les olives, le basilic et le poivre noir. Saler avec parcimonie : la feta et les olives apportent déjà beaucoup de sel.",
     "Verser la pâte dans le moule et lisser le dessus. Enfourner 40 à 45 minutes jusqu'à ce qu'un couteau planté au centre ressorte propre et que le dessus soit bien doré.",
     "Laisser refroidir 10 minutes dans le moule avant de démouler. Servir tiède ou à température ambiante."
   ],

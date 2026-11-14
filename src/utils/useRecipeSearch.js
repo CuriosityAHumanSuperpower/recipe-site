@@ -1,7 +1,8 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import Fuse from 'fuse.js';
 
-// Debounce a fast-changing value so we don't re-search on every keystroke.
+// Retarde une valeur qui change vite pour ne pas relancer la recherche à
+// chaque frappe.
 function useDebouncedValue(value, delayMs) {
   const [debounced, setDebounced] = useState(value);
   useEffect(() => {
@@ -19,10 +20,13 @@ export function useRecipeSearch(recipes, rawQuery, { debounceMs = 220 } = {}) {
       includeScore: false,
       threshold: 0.32,
       ignoreLocation: true,
+      // "pates" trouve "Pâtes", "veloute" trouve "Velouté"…
+      ignoreDiacritics: true,
       keys: [
         { name: 'title', weight: 0.4 },
-        { name: 'tags', weight: 0.25 },
-        { name: 'description', weight: 0.2 },
+        { name: 'tags', weight: 0.2 },
+        { name: 'categoryLabel', weight: 0.1 },
+        { name: 'description', weight: 0.15 },
         { name: 'ingredients.name', weight: 0.15 },
       ],
     });

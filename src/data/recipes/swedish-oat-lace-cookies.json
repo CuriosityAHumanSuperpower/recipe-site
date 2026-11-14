@@ -1,23 +1,26 @@
 {
   "id": "swedish-oat-lace-cookies",
-  "title": "Havreflarn — Galettes Suédoises à l'Avoine",
+  "title": "Havreflarn — galettes suédoises à l'avoine",
   "description": "Les fines galettes croustillantes à l'avoine du bistrot Ikea — légères et dorées, délicieuses seules ou sandwichées deux par deux avec du chocolat tempéré.",
-  "tags": ["végétarien", "sucré"],
+  "tags": ["végétarien", "printemps", "été", "automne", "hiver"],
   "category": "dessert",
   "sortKey": "Havreflarn",
   "baseServings": 100,
-  "prepTime": 150,
-  "cookTime": 8,
+  "servingsLabel": "Galettes",
+  "servingsNote": "Environ 100 galettes de 8 g, soit 50 galettes doubles au chocolat.",
+  "prepTime": 30,
+  "cookTime": 60,
+  "restTime": 120,
   "createdAt": "2026-06-30",
   "ingredients": [
     { "name": "Flocons d'avoine", "amount": 200, "unit": "g" },
     { "name": "Sucre", "amount": 300, "unit": "g" },
     { "name": "Margarine spéciale cuisson", "amount": 180, "unit": "g" },
     { "name": "Farine", "amount": 70, "unit": "g" },
-    { "name": "Extrait de vanille liquide", "amount": 0.5, "unit": "tsp" },
+    { "name": "Extrait de vanille liquide", "amount": 0.5, "unit": "cuillère à café" },
     { "name": "Œuf (environ 60 g)", "amount": 1, "unit": "" },
-    { "name": "Sel", "amount": 1, "unit": "pinch" },
-    { "name": "Levure chimique", "amount": 0.25, "unit": "tsp" },
+    { "name": "Sel", "amount": 1, "unit": "pincée" },
+    { "name": "Levure chimique", "amount": 0.25, "unit": "cuillère à café" },
     { "name": "Chocolat de couverture noir tempéré (pour les doubles)", "amount": 350, "unit": "g" },
     { "name": "Beurre de cacao Mycryo (pour le tempérage, optionnel)", "amount": 4, "unit": "g" }
   ],
@@ -28,9 +31,9 @@
     "Ajouter l'œuf et la vanille, mélanger. Une fois la pâte légèrement refroidie, incorporer la levure chimique.",
     "Couvrir et réfrigérer la pâte au minimum 2 heures, idéalement une nuit entière — la pâte froide est beaucoup plus facile à portionner.",
     "Préchauffer le four à 190-200 °C. Tapisser une plaque de papier cuisson. Former des petites boules d'environ 8 g, bien espacées (elles s'étalent beaucoup) — inutile de les aplatir. Cuire une plaque à la fois.",
-    "Enfourner 7 à 8 minutes en surveillant de près : les galettes sont prêtes quand elles sont dorées sur les bords et légèrement plus pâles au centre. Ajuster la température et le temps selon votre four — l'objectif est une galette qui durcit complètement en refroidissant.",
+    "Enfourner 7 à 8 minutes par plaque en surveillant de près : les galettes sont prêtes quand elles sont dorées sur les bords et légèrement plus pâles au centre. Ajuster la température et le temps selon votre four — l'objectif est une galette qui durcit complètement en refroidissant.",
     "Laisser refroidir entièrement sur une grille avant de manipuler — elles sont très fragiles chaudes.",
     "Pour les galettes doubles : tempérer le chocolat avec le beurre de cacao si vous l'utilisez, ou simplement le faire fondre. Tremper le dessous d'une galette dans le chocolat presque jusqu'au bord, puis l'assembler avec une galette nature. Laisser figer avant de servir."
   ],
-  "footnote": "La margarine de cuisson donne une texture plus proche de l'original qu'avec du beurre. Le repos au frigo est indispensable : une pâte trop chaude donne des galettes qui partent dans tous les sens à la cuisson. Les bases se décuplent ou divisent facilement via le curseur de portions."
+  "footnote": "La margarine de cuisson donne une texture plus proche de l'original qu'avec du beurre. Le repos au frigo est indispensable : une pâte trop chaude donne des galettes qui partent dans tous les sens à la cuisson. Le temps de cuisson total dépend du nombre de plaques (une dizaine de galettes par plaque)."
 }

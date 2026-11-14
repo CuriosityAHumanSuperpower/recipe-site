@@ -1,8 +1,8 @@
 {
   "id": "miso-peanut-glazed-onions",
-  "title": "Oignons Caramélisés Miso & Cacahuète",
+  "title": "Oignons caramélisés miso & cacahuète",
   "description": "Des oignons longuement caramélisés, nappés d'un glaçage miso-cacahuète-soja à la fois crémeux, sucré et umami. Un accompagnement qui transforme un simple bol de riz, de pâtes ou de semoule.",
-  "tags": ["végétarien", "végétalien", "sans gluten"],
+  "tags": ["végétarien", "végétalien", "printemps", "été", "automne", "hiver"],
   "category": "side",
   "sortKey": "Oignons",
   "baseServings": 4,
@@ -11,12 +11,12 @@
   "createdAt": "2026-06-30",
   "ingredients": [
     { "name": "Oignons", "amount": 4, "unit": "" },
-    { "name": "Beurre de cacahuète", "amount": 3, "unit": "tbsp" },
-    { "name": "Pâte miso blanche ou jaune", "amount": 2, "unit": "tbsp" },
-    { "name": "Sauce soja", "amount": 2, "unit": "tbsp" },
-    { "name": "Huile de sésame", "amount": 1, "unit": "tbsp" },
-    { "name": "Huile neutre (tournesol ou colza)", "amount": 1, "unit": "tbsp" },
-    { "name": "Eau chaude", "amount": 4, "unit": "tbsp" },
+    { "name": "Beurre de cacahuète", "amount": 3, "unit": "cuillère à soupe" },
+    { "name": "Pâte miso blanche ou jaune", "amount": 2, "unit": "cuillère à soupe" },
+    { "name": "Sauce soja", "amount": 2, "unit": "cuillère à soupe" },
+    { "name": "Huile de sésame", "amount": 1, "unit": "cuillère à soupe" },
+    { "name": "Huile neutre (tournesol ou colza)", "amount": 1, "unit": "cuillère à soupe" },
+    { "name": "Eau chaude", "amount": 4, "unit": "cuillère à soupe" },
     { "name": "Gousses d'ail", "amount": 2, "unit": "" }
   ],
   "steps": [
@@ -26,5 +26,5 @@
     "Verser la sauce miso-cacahuète sur les oignons et mélanger pour bien enrober. Cuire encore 3 à 4 minutes à feu doux en remuant, jusqu'à ce que la sauce soit épaisse, brillante et accroche bien aux oignons.",
     "Servir immédiatement sur du riz, des pâtes, des nouilles soba ou de la semoule."
   ],
-  "footnote": "Le miso blanc donne un résultat plus doux et sucré ; le miso rouge ou foncé est plus intense et salé. La sauce épaissit très vite au contact de la poêle chaude — remuer sans cesse et ajouter un filet d'eau si elle accroche."
+  "footnote": "Le miso blanc donne un résultat plus doux et sucré ; le miso rouge ou foncé est plus intense et salé. La sauce épaissit très vite au contact de la poêle chaude — remuer sans cesse et ajouter un filet d'eau si elle accroche. Pour une version sans gluten, utiliser du tamari à la place de la sauce soja et un miso de riz ou de soja pur (certains misos contiennent de l'orge)."
 }

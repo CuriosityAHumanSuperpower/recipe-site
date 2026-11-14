@@ -1,24 +1,36 @@
 {
-  "_comment": "TEMPLATE FILE — copy this to a new file WITHOUT the leading underscore (e.g. my-recipe.json) and fill it in. Files starting with '_' are ignored by the app on purpose, so this template never shows up on the site.",
-  "id": "your-recipe-id",
-  "title": "Recipe Title",
-  "description": "A short, appetising one or two sentence description shown on the card and at the top of the recipe page.",
-  "tags": ["vegetarian", "dinner"],
+  "_comment": "MODÈLE — copier ce fichier SANS le tiret bas initial (ex. ma-recette.json) puis le remplir. Les fichiers commençant par '_' sont ignorés par le site. Lancer ensuite : npm run check-recipes",
+  "id": "ma-recette",
+  "title": "Titre de la recette",
+  "description": "Une ou deux phrases appétissantes, affichées en haut de la page recette et utilisées par la recherche.",
+  "tags": ["végétarien", "printemps", "été"],
+  "_tagsHelp": "Saisons (printemps, été, automne, hiver — les 4 si la recette se fait toute l'année), régime (végétarien, végétalien, sans gluten), autre (froid). Le tag 'rapide' est ajouté automatiquement si le temps total ≤ 30 min. Liste complète : src/data/tags.json",
   "category": "main",
-  "_categoryOptions": "one of: breakfast, starter, main, side, dessert, snack, drink — see src/data/categories.json",
-  "sortKey": "Recipe Title",
-  "_sortKeyHelp": "REQUIRED. The word/phrase this recipe alphabetizes under on the homepage, e.g. for 'Classic Ratatouille' set sortKey to 'Ratatouille' so it sorts under R instead of C. Always set this explicitly — npm run check-recipes will flag it if it's missing.",
+  "_categoryOptions": "une valeur parmi : breakfast, starter, main, side, dessert, snack, drink — voir src/data/categories.json",
+  "sortKey": "Recette",
+  "_sortKeyHelp": "OBLIGATOIRE. Mot sous lequel la recette est classée (A-Z) sur l'accueil, ex. 'Ratatouille classique' -> 'Ratatouille'.",
   "baseServings": 4,
+  "servingsLabel": "Personnes",
+  "_servingsLabelHelp": "Optionnel : libellé du sélecteur (Personnes par défaut ; Parts, Galettes, Pains…).",
+  "servingsNote": "Prévu pour un moule de 24 cm : adaptez la taille du moule si vous changez le nombre de parts.",
+  "_servingsNoteHelp": "Optionnel : remarque affichée sous le sélecteur (taille de moule…). Supprimer si inutile.",
   "prepTime": 15,
   "cookTime": 30,
-  "createdAt": "2026-06-30",
+  "restTime": 0,
+  "_timesHelp": "En minutes. restTime (repos, réfrigération…) est optionnel et compte dans le temps total.",
+  "createdAt": "2026-11-14",
   "ingredients": [
-    { "name": "Ingredient name", "amount": 250, "unit": "g" },
-    { "name": "Unit-less countable item (e.g. eggs)", "amount": 2, "unit": "" }
+    { "name": "Farine", "amount": 250, "unit": "g" },
+    { "name": "Lait", "amount": 500, "unit": "ml" },
+    { "name": "Huile d'olive", "amount": 2, "unit": "cuillère à soupe" },
+    { "name": "Cumin", "amount": 1, "unit": "cuillère à café" },
+    { "name": "Œufs", "amount": 2, "unit": "" },
+    { "name": "Sel", "amount": null, "unit": "au goût" }
   ],
+  "_unitsHelp": "Unités : g, kg, ml, cl, l, 'cuillère à soupe', 'cuillère à café', 'pincée', 'poignée', 'cm', ou '' pour un élément qui se compte. amount: null + texte libre dans unit ('au goût', 'un filet') pour une quantité non chiffrée.",
   "steps": [
-    "First step, written as a full sentence.",
-    "Second step..."
+    "Première étape, rédigée à l'infinitif. Ne pas écrire de quantité ici (« 200 g de sucre ») : elle ne suivrait pas le nombre de portions. Écrire plutôt « le sucre », « la moitié de l'huile ».",
+    "Diviser la pâte en {portions} boules — {portions} est remplacé par le nombre choisi."
   ],
-  "footnote": "Optional tip, variation, or storage advice. Remove this field entirely if not needed."
+  "footnote": "Astuce, variante ou conservation (optionnel — supprimer ce champ si inutile)."
 }

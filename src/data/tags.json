@@ -1,13 +1,17 @@
 [
-  "petit-déjeuner",
-  "entrée",
-  "plat",
-  "dîner",
-  "végétarien",
-  "végétalien",
-  "sans gluten",
-  "sucré",
-  "froid",
-  "été",
-  "apéritif"
+  {
+    "id": "saison",
+    "label": "Saison",
+    "tags": ["printemps", "été", "automne", "hiver"]
+  },
+  {
+    "id": "regime",
+    "label": "Régime",
+    "tags": ["végétarien", "végétalien", "sans gluten"]
+  },
+  {
+    "id": "autre",
+    "label": "Autre",
+    "tags": ["rapide", "froid"]
+  }
 ]

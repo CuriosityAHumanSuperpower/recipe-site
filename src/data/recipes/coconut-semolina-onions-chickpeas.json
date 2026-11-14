@@ -1,8 +1,8 @@
 {
   "id": "coconut-semolina-onions-chickpeas",
-  "title": "Semoule au Lait de Coco, Oignons Caramélisés & Pois Chiches",
+  "title": "Semoule au lait de coco, oignons caramélisés & pois chiches",
   "description": "Une semoule cuite dans le lait de coco, couronnée d'une montagne d'oignons longuement caramélisés et de pois chiches épicés au paprika — un bol parfumé et généreux.",
-  "tags": ["végétalien", "végétarien", "plat", "dîner"],
+  "tags": ["végétarien", "végétalien", "printemps", "été", "automne", "hiver"],
   "category": "main",
   "sortKey": "Semoule",
   "baseServings": 4,
@@ -15,18 +15,18 @@
     { "name": "Eau", "amount": 300, "unit": "ml" },
     { "name": "Oignons", "amount": 4, "unit": "" },
     { "name": "Pois chiches en boîte, égouttés", "amount": 400, "unit": "g" },
-    { "name": "Paprika fumé", "amount": 2, "unit": "tsp" },
-    { "name": "Cumin en poudre", "amount": 1, "unit": "tsp" },
-    { "name": "Huile d'olive", "amount": 3, "unit": "tbsp" },
-    { "name": "Sel", "amount": 1, "unit": "tsp" },
-    { "name": "Poivre noir", "amount": 0.25, "unit": "tsp" },
-    { "name": "Coriandre ou persil frais haché (pour servir)", "amount": 1, "unit": "tbsp" }
+    { "name": "Paprika fumé", "amount": 2, "unit": "cuillère à café" },
+    { "name": "Cumin en poudre", "amount": 1, "unit": "cuillère à café" },
+    { "name": "Huile d'olive", "amount": 3, "unit": "cuillère à soupe" },
+    { "name": "Sel", "amount": 1, "unit": "cuillère à café" },
+    { "name": "Poivre noir", "amount": 0.25, "unit": "cuillère à café" },
+    { "name": "Coriandre ou persil frais haché (pour servir)", "amount": 1, "unit": "cuillère à soupe" }
   ],
   "steps": [
-    "Éplucher et émincer finement les oignons. Chauffer 2 cuillères à soupe d'huile d'olive dans une grande poêle à feu doux-moyen et cuire les oignons 25 à 30 minutes en remuant toutes les 5 minutes, jusqu'à ce qu'ils soient profondément dorés et confits. C'est le cœur du plat — ne pas presser la cuisson.",
-    "Ajouter les pois chiches aux oignons avec 1 cuillère à café de paprika et le cumin. Saler avec la moitié du sel et cuire ensemble 5 minutes jusqu'à ce que les pois chiches soient bien enrobés et légèrement croustillants sur les bords. Réserver.",
+    "Éplucher et émincer finement les oignons. Chauffer les deux tiers de l'huile d'olive dans une grande poêle à feu doux-moyen et cuire les oignons 25 à 30 minutes en remuant toutes les 5 minutes, jusqu'à ce qu'ils soient profondément dorés et confits. C'est le cœur du plat — ne pas presser la cuisson.",
+    "Ajouter les pois chiches aux oignons avec la moitié du paprika et le cumin. Saler avec la moitié du sel et cuire ensemble 5 minutes jusqu'à ce que les pois chiches soient bien enrobés et légèrement croustillants sur les bords. Réserver.",
     "Dans une casserole, porter le lait de coco, l'eau, le reste du paprika et le reste du sel à frémissement. Verser la semoule en pluie fine en remuant constamment. Cuire à feu doux 3 à 4 minutes en remuant, jusqu'à ce que la semoule soit épaisse et se détache des parois. Couvrir et laisser gonfler hors du feu 2 minutes.",
-    "Verser la semoule dans des bols ou sur un grand plat, déposer généreusement les oignons caramélisés et les pois chiches épicés par-dessus. Terminer avec la coriandre ou le persil frais et un filet d'huile d'olive."
+    "Verser la semoule dans des bols ou sur un grand plat, déposer généreusement les oignons caramélisés et les pois chiches épicés par-dessus. Terminer avec la coriandre ou le persil frais et le reste de l'huile d'olive en filet."
   ],
   "footnote": "Les oignons ont besoin de temps — trop fort, trop vite, ils deviennent mous sans caraméliser. Feu doux et patience. Un petit filet d'eau en milieu de cuisson si ça accroche permet de récupérer les sucs sans perdre la couleur."
 }

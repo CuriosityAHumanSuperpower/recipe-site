@@ -1,23 +1,24 @@
 {
   "id": "yogurt-flatbreads",
-  "title": "Pains Plats au Yaourt",
+  "title": "Pains plats au yaourt",
   "description": "Une pâte en deux ingrédients — yaourt et farine — prête en quelques minutes et cuite à sec dans une poêle. Souple, légèrement moelleux, à manger chaud à la sortie du feu.",
-  "tags": ["végétarien", "petit-déjeuner", "apéritif"],
+  "tags": ["végétarien", "printemps", "été", "automne", "hiver"],
   "category": "snack",
   "sortKey": "Pains Plats",
   "baseServings": 6,
+  "servingsLabel": "Pains",
   "prepTime": 10,
   "cookTime": 15,
   "createdAt": "2026-06-30",
   "ingredients": [
     { "name": "Yaourt nature entier", "amount": 300, "unit": "g" },
     { "name": "Farine (type 55)", "amount": 300, "unit": "g" },
-    { "name": "Levure chimique", "amount": 1, "unit": "tsp" },
-    { "name": "Sel", "amount": 0.5, "unit": "tsp" }
+    { "name": "Levure chimique", "amount": 1, "unit": "cuillère à café" },
+    { "name": "Sel", "amount": 0.5, "unit": "cuillère à café" }
   ],
   "steps": [
     "Mélanger la farine, la levure chimique et le sel dans un bol. Ajouter le yaourt et mélanger à la fourchette, puis pétrir brièvement à la main jusqu'à obtenir une pâte souple et légèrement collante. Ne pas trop travailler.",
-    "Diviser la pâte en 6 boules égales. Sur un plan de travail légèrement fariné, abaisser chaque boule à environ 3 à 4 mm d'épaisseur.",
+    "Diviser la pâte en {portions} boules égales. Sur un plan de travail légèrement fariné, abaisser chaque boule à environ 3 à 4 mm d'épaisseur.",
     "Chauffer une poêle en fonte ou antiadhésive à feu vif jusqu'à ce qu'elle soit très chaude. Cuire chaque pain 1 à 2 minutes par face, sans huile, jusqu'à l'apparition de taches dorées et un léger gonflement.",
     "Empiler les pains cuits sous un linge propre pour les garder souples, et servir chaud."
   ],

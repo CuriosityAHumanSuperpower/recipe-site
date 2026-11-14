@@ -1,13 +1,13 @@
 {
   "id": "classic-ratatouille",
-  "title": "Ratatouille Classique",
+  "title": "Ratatouille classique",
   "description": "Le ragoût provençal rustique d'aubergine, courgette, poivrons et tomates, mijoté lentement avec de l'ail et des herbes de Provence. Naturellement végétalien et sans gluten.",
-  "tags": ["végétarien", "végétalien", "plat", "dîner", "sans gluten"],
+  "tags": ["végétarien", "végétalien", "sans gluten", "été"],
   "category": "main",
   "sortKey": "Ratatouille",
   "baseServings": 4,
   "prepTime": 20,
-  "cookTime": 40,
+  "cookTime": 50,
   "createdAt": "2024-03-22",
   "ingredients": [
     { "name": "Aubergine", "amount": 1, "unit": "" },
@@ -17,11 +17,11 @@
     { "name": "Tomates mûres", "amount": 4, "unit": "" },
     { "name": "Oignon", "amount": 1, "unit": "" },
     { "name": "Gousses d'ail", "amount": 3, "unit": "" },
-    { "name": "Huile d'olive", "amount": 4, "unit": "tbsp" },
-    { "name": "Herbes de Provence", "amount": 1, "unit": "tbsp" },
+    { "name": "Huile d'olive", "amount": 4, "unit": "cuillère à soupe" },
+    { "name": "Herbes de Provence", "amount": 1, "unit": "cuillère à soupe" },
     { "name": "Feuille de laurier", "amount": 1, "unit": "" },
-    { "name": "Sel", "amount": 1, "unit": "tsp" },
-    { "name": "Poivre noir", "amount": 1, "unit": "pinch" },
+    { "name": "Sel", "amount": 1, "unit": "cuillère à café" },
+    { "name": "Poivre noir", "amount": 1, "unit": "pincée" },
     { "name": "Feuilles de basilic frais", "amount": 10, "unit": "" }
   ],
   "steps": [

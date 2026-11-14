@@ -1,19 +1,32 @@
-import tagOrder from './tags.json';
+import tagGroups from './tags.json';
 import categories from './categories.json';
 import { compareBySortKey } from '../utils/sortKey';
+import { getTimes } from '../utils/scale';
 
-// Auto-discovers every .json file in ./recipes at build time, except files
-// prefixed with "_" (e.g. _template.json) which are ignored on purpose so
-// the template never shows up on the site.
+// Découvre automatiquement chaque fichier .json de ./recipes au build, sauf
+// ceux préfixés par "_" (ex. _template.json), ignorés volontairement.
 const modules = import.meta.glob('./recipes/*.json', { eager: true });
+
+export const SEASONS = ['printemps', 'été', 'automne', 'hiver'];
+export const SEASON_ICONS = { printemps: '🌱', été: '☀️', automne: '🍂', hiver: '❄️' };
+
+// Tag calculé automatiquement : temps total (repos compris) ≤ 30 min.
+const QUICK_MAX_MINUTES = 30;
+
+const categoryLabel = Object.fromEntries(categories.map((c) => [c.id, c.label]));
 
 const recipes = Object.entries(modules)
   .filter(([path]) => !path.split('/').pop().startsWith('_'))
-  .map(([, m]) => m.default ?? m);
+  .map(([, m]) => m.default ?? m)
+  .map((r) => {
+    const tags = [...(r.tags ?? [])];
+    if (getTimes(r).total && getTimes(r).total <= QUICK_MAX_MINUTES && !tags.includes('rapide')) {
+      tags.push('rapide');
+    }
+    return { ...r, tags, categoryLabel: categoryLabel[r.category] ?? '' };
+  });
 
-// Homepage ordering: by key word (A-Z, ignoring leading adjectives — see
-// utils/sortKey.js), independent of category. Category grouping happens at
-// render time in RecipeList.
+// Ordre de la page d'accueil : par mot-clé (A-Z, voir utils/sortKey.js).
 recipes.sort(compareBySortKey);
 
 export default recipes;
@@ -24,17 +37,25 @@ export function getRecipeById(id) {
   return recipes.find((r) => r.id === id);
 }
 
-// Tags actually used by recipes, ordered first by the canonical order in
-// tags.json (kept as a single small source of truth for tag naming/order),
-// then alphabetically for any tag not yet listed there.
-export function getAllTags() {
+export function getSeasons(recipe) {
+  return SEASONS.filter((s) => recipe.tags?.includes(s));
+}
+
+export function getNonSeasonTags(recipe) {
+  return (recipe.tags ?? []).filter((t) => !SEASONS.includes(t));
+}
+
+// Groupes de tags pour les filtres de l'accueil, limités aux tags réellement
+// utilisés. Un tag absent de tags.json atterrit dans le groupe "Autre".
+export function getTagGroups() {
   const used = new Set();
   recipes.forEach((r) => r.tags?.forEach((t) => used.add(t)));
 
-  const ordered = tagOrder.filter((t) => used.has(t));
-  const extra = Array.from(used)
-    .filter((t) => !tagOrder.includes(t))
-    .sort();
+  const known = new Set(tagGroups.flatMap((g) => g.tags));
+  const groups = tagGroups.map((g) => ({ ...g, tags: g.tags.filter((t) => used.has(t)) }));
+  const extra = [...used].filter((t) => !known.has(t)).sort((a, b) => a.localeCompare(b, 'fr'));
+  const other = groups.find((g) => g.id === 'autre');
+  if (other) other.tags.push(...extra);
 
-  return [...ordered, ...extra];
+  return groups.filter((g) => g.tags.length);
 }

@@ -1,8 +1,8 @@
 {
   "id": "peanut-butter-chickpea-stew",
-  "title": "Ragoût de Pois Chiches au Beurre de Cacahuète",
+  "title": "Ragoût de pois chiches au beurre de cacahuète",
   "description": "Un ragoût crémeux et réconfortant en une seule casserole, où le beurre de cacahuète et la sauce tomate se fondent en une sauce riche et généreuse autour des pois chiches, des légumes et du riz.",
-  "tags": ["végétalien", "végétarien", "plat", "dîner", "sans gluten"],
+  "tags": ["végétarien", "végétalien", "sans gluten", "printemps", "été", "automne", "hiver"],
   "category": "main",
   "sortKey": "Ragoût",
   "baseServings": 2,
@@ -17,16 +17,17 @@
     { "name": "Légumes frais ou surgelés (brocoli, haricots verts, épinards…)", "amount": 125, "unit": "g" },
     { "name": "Oignon", "amount": 1, "unit": "" },
     { "name": "Gousse d'ail", "amount": 1, "unit": "" },
-    { "name": "Sel", "amount": 1, "unit": "tsp" },
-    { "name": "Poivre noir", "amount": 0.25, "unit": "tsp" },
-    { "name": "Paprika", "amount": 1, "unit": "tsp" }
+    { "name": "Huile d'olive ou neutre", "amount": 1, "unit": "cuillère à soupe" },
+    { "name": "Sel", "amount": 1, "unit": "cuillère à café" },
+    { "name": "Poivre noir", "amount": 0.25, "unit": "cuillère à café" },
+    { "name": "Paprika", "amount": 1, "unit": "cuillère à café" }
   ],
   "steps": [
     "Cuire le riz selon les instructions du paquet dans de l'eau salée, puis égoutter et réserver.",
-    "Émincer finement l'oignon et l'ail. Chauffer un filet d'huile dans une casserole à feu moyen et les faire revenir 3 à 4 minutes jusqu'à ce qu'ils soient fondants.",
+    "Émincer finement l'oignon et l'ail. Chauffer l'huile dans une casserole à feu moyen et les faire revenir 3 à 4 minutes jusqu'à ce qu'ils soient fondants.",
     "Ajouter le paprika et cuire 30 secondes jusqu'à ce qu'il soit parfumé, puis incorporer la sauce tomate et le beurre de cacahuète. Remuer jusqu'à ce que le beurre de cacahuète soit bien fondu dans la sauce.",
     "Ajouter les pois chiches et les légumes (si surgelés, inutile de les décongeler au préalable). Laisser mijoter 10 à 12 minutes en remuant de temps en temps, jusqu'à ce que les légumes soient tendres et la sauce épaisse.",
     "Saler, poivrer, rectifier l'assaisonnement et servir chaud sur le riz."
   ],
-  "footnote": "Si vous utilisez des pois chiches secs, faire tremper 125 g la veille et cuire jusqu'à tendreté avant de les ajouter à la sauce. Les doses de sel, poivre et paprika sont indicatives — à ajuster selon le goût."
+  "footnote": "Avec des pois chiches secs, compter la moitié du poids indiqué : les faire tremper la veille, puis les cuire jusqu'à tendreté avant de les ajouter à la sauce. Les doses de sel, poivre et paprika sont indicatives — à ajuster selon le goût."
 }

@@ -1,8 +1,8 @@
 {
   "id": "pasta-roasted-pepper-sauce",
-  "title": "Pâtes Fraîches, Sauce Poivrons Grillés",
-  "description": "Des poivrons grillés à la flamme, pelés et mixés avec des pignons de pin, du parmesan, de la roquette, du basilic, du citron et de l'huile d'olive — une sauce vive et crémeuse qui ne nécessite aucune cuisson.",
-  "tags": ["végétarien", "plat", "dîner"],
+  "title": "Pâtes fraîches, sauce aux poivrons grillés",
+  "description": "Des poivrons grillés à la flamme, pelés et mixés avec des pignons de pin, du parmesan, de la roquette, du basilic, du citron et de l'huile d'olive — une sauce vive et crémeuse, simplement mixée une fois les poivrons grillés.",
+  "tags": ["végétarien", "été"],
   "category": "main",
   "sortKey": "Pâtes",
   "baseServings": 4,
@@ -17,16 +17,16 @@
     { "name": "Roquette", "amount": 50, "unit": "g" },
     { "name": "Feuilles de basilic frais", "amount": 20, "unit": "" },
     { "name": "Citron (jus et zeste)", "amount": 1, "unit": "" },
-    { "name": "Huile d'olive", "amount": 5, "unit": "tbsp" },
-    { "name": "Sel", "amount": 1, "unit": "tsp" },
-    { "name": "Poivre noir", "amount": 0.25, "unit": "tsp" }
+    { "name": "Huile d'olive", "amount": 5, "unit": "cuillère à soupe" },
+    { "name": "Sel", "amount": 1, "unit": "cuillère à café" },
+    { "name": "Poivre noir", "amount": 0.25, "unit": "cuillère à café" }
   ],
   "steps": [
     "Faire griller les poivrons entiers directement sur la flamme du gaz ou sous le gril du four à température maximale, en les retournant régulièrement, jusqu'à ce que la peau soit entièrement carbonisée et noire. Déposer dans un bol, couvrir hermétiquement avec du film alimentaire et laisser reposer 15 minutes — la vapeur décolle la peau.",
     "Faire torréfier les pignons de pin à sec dans une poêle à feu moyen 2 à 3 minutes en remuant souvent, jusqu'à ce qu'ils soient dorés. Surveiller — ils brûlent rapidement. Réserver.",
     "Peler les poivrons : la peau carbonisée doit se détacher facilement sous un filet d'eau. Retirer les graines et les pédoncules. Éponger avec du papier absorbant.",
     "Mixer les poivrons pelés avec les pignons, le parmesan, la roquette, le basilic, le jus et le zeste de citron, et l'huile d'olive jusqu'à obtenir une sauce lisse et vive. Saler et poivrer.",
-    "Cuire les pâtes dans une grande quantité d'eau bouillante bien salée selon les indications, égoutter en conservant une tasse d'eau de cuisson.",
+    "Cuire les pâtes dans une grande quantité d'eau bouillante bien salée selon les indications, égoutter en conservant un petit bol d'eau de cuisson.",
     "Mélanger les pâtes chaudes avec la sauce en ajoutant un peu d'eau de cuisson pour ajuster la consistance. Servir immédiatement avec du parmesan supplémentaire et quelques feuilles de basilic."
   ],
   "footnote": "Griller les poivrons directement à la flamme donne un caractère fumé bien plus profond que la cuisson au four — ça vaut les quelques minutes supplémentaires. La sauce se prépare la veille et se conserve au réfrigérateur ; la remettre à température ambiante avant de la mélanger aux pâtes."

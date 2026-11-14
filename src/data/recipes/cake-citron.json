@@ -1,0 +1,37 @@
+{
+  "id": "cake-citron",
+  "title": "Cake au Citron Imbibé",
+  "description": "Un cake moelleux au citron et au rhum brun, parfumé par les zestes frottés dans le sucre, puis imbibé d'un sirop citronné encore tiède pour rester tendre plusieurs jours.",
+  "tags": ["végétarien", "sucré"],
+  "category": "dessert",
+  "sortKey": "Cake citron",
+  "baseServings": 6,
+  "prepTime": 20,
+  "cookTime": 40,
+  "createdAt": "2026-11-14",
+  "ingredients": [
+    { "name": "Beurre fondu, refroidi", "amount": 65, "unit": "g" },
+    { "name": "Gros citron non traité (zeste)", "amount": 1, "unit": "" },
+    { "name": "Sucre en poudre", "amount": 200, "unit": "g" },
+    { "name": "Œufs", "amount": 3, "unit": "" },
+    { "name": "Rhum brun", "amount": 2, "unit": "tbsp" },
+    { "name": "Crème liquide entière", "amount": 95, "unit": "g" },
+    { "name": "Farine", "amount": 190, "unit": "g" },
+    { "name": "Levure chimique", "amount": 0.5, "unit": "tsp" },
+    { "name": "Sel", "amount": 1, "unit": "pinch" },
+    { "name": "Eau minérale (sirop)", "amount": 75, "unit": "ml" },
+    { "name": "Sucre en poudre (sirop)", "amount": 30, "unit": "g" },
+    { "name": "Jus de citron (sirop)", "amount": 1, "unit": "tbsp" }
+  ],
+  "steps": [
+    "Faire fondre le beurre et le laisser refroidir.",
+    "Zester le citron et frotter les zestes dans les 200 g de sucre du bout des doigts pour bien le parfumer.",
+    "Préchauffer le four à 150 °C (th. 5) en chaleur tournante. Graisser un moule à cake de 20 cm de long.",
+    "Au robot, fouetter les œufs entiers avec le sucre au citron jusqu'à ce que le mélange blanchisse. Ajouter le rhum, la crème et le sel, puis fouetter de nouveau.",
+    "Tamiser la farine avec la levure et l'incorporer progressivement à la maryse, délicatement. Ajouter enfin le beurre fondu refroidi et mélanger doucement.",
+    "Verser la pâte dans le moule et enfourner environ 40 minutes. Le cake est cuit quand la lame d'un couteau plantée au centre ressort sèche.",
+    "Pendant la cuisson, préparer le sirop : porter l'eau et les 30 g de sucre à ébullition, retirer du feu, ajouter le jus de citron et mélanger.",
+    "Démouler le cake tiède sur une grille, verser la totalité du sirop dessus, puis laisser refroidir à température ambiante."
+  ],
+  "footnote": "Utiliser un citron non traité, puisque le zeste est le principal parfum du cake. Le sirop doit être versé sur un cake encore tiède pour être bien absorbé. Le cake gagne en moelleux après quelques heures de repos, et se conserve plusieurs jours bien emballé."
+}

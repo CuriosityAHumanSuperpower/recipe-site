@@ -1,0 +1,34 @@
+{
+  "id": "pates-lentilles-ricotta-petits-pois",
+  "title": "Pâtes de lentilles, pesto de roquette, petits pois & ricotta",
+  "description": "Des pâtes 100 % lentilles corail, un pesto vif de roquette et de parmesan, des petits pois croquants et des cuillerées de ricotta fraîche. Prêt en 20 minutes, naturellement sans gluten.",
+  "tags": ["végétarien", "sans gluten", "printemps", "été"],
+  "category": "main",
+  "sortKey": "Pâtes de lentilles",
+  "baseServings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "createdAt": "2026-11-15",
+  "nutrition": { "kcal": 640, "protein": 35, "proteinAdjusted": 30 },
+  "ingredients": [
+    { "name": "Pâtes de lentilles corail", "amount": 320, "unit": "g" },
+    { "name": "Petits pois (frais ou surgelés)", "amount": 300, "unit": "g" },
+    { "name": "Ricotta", "amount": 250, "unit": "g" },
+    { "name": "Roquette", "amount": 80, "unit": "g" },
+    { "name": "Parmesan râpé", "amount": 40, "unit": "g" },
+    { "name": "Pignons de pin", "amount": 30, "unit": "g" },
+    { "name": "Huile d'olive", "amount": 4, "unit": "cuillère à soupe" },
+    { "name": "Gousse d'ail", "amount": 1, "unit": "" },
+    { "name": "Citron (zeste et jus)", "amount": 1, "unit": "" },
+    { "name": "Sel", "amount": null, "unit": "au goût" },
+    { "name": "Poivre noir", "amount": null, "unit": "au goût" }
+  ],
+  "steps": [
+    "Porter une grande casserole d'eau salée à ébullition.",
+    "Préparer le pesto : mixer la moitié de la roquette avec le parmesan, les pignons, l'ail, le zeste du citron et l'huile d'olive jusqu'à obtenir une sauce grossière. Ajouter le jus du citron, saler et poivrer.",
+    "Cuire les pâtes de lentilles selon les indications du paquet (souvent 6 à 8 minutes : elles deviennent vite trop tendres), en ajoutant les petits pois pour les 3 dernières minutes. Égoutter en conservant un petit bol d'eau de cuisson.",
+    "Mélanger les pâtes et les petits pois avec le pesto, en ajoutant un peu d'eau de cuisson pour lier la sauce. Incorporer le reste de la roquette.",
+    "Servir avec des cuillerées de ricotta et du poivre fraîchement moulu."
+  ],
+  "footnote": "Les pâtes de légumineuses contiennent environ deux fois plus de protéines que les pâtes de blé. Le parmesan AOP est fabriqué avec de la présure animale : pour un plat strictement végétarien, choisir un fromage à pâte dure à présure végétale."
+}

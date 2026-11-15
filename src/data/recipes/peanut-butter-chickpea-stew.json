@@ -9,6 +9,7 @@
   "prepTime": 10,
   "cookTime": 20,
   "createdAt": "2026-06-30",
+  "nutrition": { "kcal": 590, "protein": 22, "proteinAdjusted": 16 },
   "ingredients": [
     { "name": "Pois chiches en boîte, égouttés", "amount": 250, "unit": "g" },
     { "name": "Riz basmati (poids cru)", "amount": 100, "unit": "g" },
@@ -29,5 +30,5 @@
     "Ajouter les pois chiches et les légumes (si surgelés, inutile de les décongeler au préalable). Laisser mijoter 10 à 12 minutes en remuant de temps en temps, jusqu'à ce que les légumes soient tendres et la sauce épaisse.",
     "Saler, poivrer, rectifier l'assaisonnement et servir chaud sur le riz."
   ],
-  "footnote": "Avec des pois chiches secs, compter la moitié du poids indiqué : les faire tremper la veille, puis les cuire jusqu'à tendreté avant de les ajouter à la sauce. Les doses de sel, poivre et paprika sont indicatives — à ajuster selon le goût."
+  "footnote": "Avec des pois chiches secs, compter la moitié du poids indiqué : les faire tremper la veille, puis les cuire jusqu'à tendreté avant de les ajouter à la sauce. Les doses de sel, poivre et paprika sont indicatives — à ajuster selon le goût. Pour plus de protéines, ajouter 150 g de tofu ferme en dés avec les pois chiches (environ +9 g assimilables par portion)."
 }

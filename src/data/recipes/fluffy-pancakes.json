@@ -9,6 +9,7 @@
   "prepTime": 10,
   "cookTime": 15,
   "createdAt": "2024-02-10",
+  "nutrition": { "kcal": 390, "protein": 12, "proteinAdjusted": 10 },
   "ingredients": [
     { "name": "Farine de blé (type 55)", "amount": 250, "unit": "g" },
     { "name": "Lait", "amount": 300, "unit": "ml" },
@@ -28,5 +29,5 @@
     "Cuire 2 à 3 minutes jusqu'à ce que des bulles se forment en surface, puis retourner et cuire encore 1 à 2 minutes jusqu'à dorure.",
     "Empiler les pancakes et servir chaud avec la garniture de votre choix."
   ],
-  "footnote": "Pour des pancakes encore plus aériens, laisser reposer la pâte 10 minutes avant la cuisson et ne jamais appuyer dessus avec la spatule."
+  "footnote": "Pour des pancakes encore plus aériens, laisser reposer la pâte 10 minutes avant la cuisson et ne jamais appuyer dessus avec la spatule. Servis avec 100 g de skyr ou de fromage blanc par personne, ils deviennent un petit-déjeuner bien plus rassasiant (+8 à 11 g de protéines)."
 }

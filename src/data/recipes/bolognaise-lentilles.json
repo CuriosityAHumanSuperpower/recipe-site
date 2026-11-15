@@ -1,0 +1,40 @@
+{
+  "id": "bolognaise-lentilles",
+  "title": "Spaghetti complets, bolognaise de lentilles",
+  "description": "Une bolognaise mijotée où les lentilles vertes remplacent la viande, avec champignons, carotte et céleri pour la profondeur, servie sur des spaghetti complets avec du parmesan.",
+  "tags": ["végétarien", "printemps", "été", "automne", "hiver"],
+  "category": "main",
+  "sortKey": "Bolognaise",
+  "baseServings": 4,
+  "prepTime": 15,
+  "cookTime": 55,
+  "createdAt": "2026-11-15",
+  "nutrition": { "kcal": 710, "protein": 34, "proteinAdjusted": 27 },
+  "ingredients": [
+    { "name": "Spaghetti complets", "amount": 320, "unit": "g" },
+    { "name": "Lentilles vertes sèches", "amount": 250, "unit": "g" },
+    { "name": "Champignons de Paris", "amount": 250, "unit": "g" },
+    { "name": "Tomates concassées en boîte", "amount": 800, "unit": "g" },
+    { "name": "Eau", "amount": 600, "unit": "ml" },
+    { "name": "Oignon", "amount": 1, "unit": "" },
+    { "name": "Carotte", "amount": 1, "unit": "" },
+    { "name": "Branche de céleri", "amount": 1, "unit": "" },
+    { "name": "Gousses d'ail", "amount": 2, "unit": "" },
+    { "name": "Huile d'olive", "amount": 2, "unit": "cuillère à soupe" },
+    { "name": "Concentré de tomate", "amount": 2, "unit": "cuillère à soupe" },
+    { "name": "Sauce soja", "amount": 1, "unit": "cuillère à soupe" },
+    { "name": "Origan séché", "amount": 1, "unit": "cuillère à café" },
+    { "name": "Feuille de laurier", "amount": 1, "unit": "" },
+    { "name": "Parmesan râpé", "amount": 60, "unit": "g" },
+    { "name": "Sel", "amount": null, "unit": "au goût" },
+    { "name": "Poivre noir", "amount": null, "unit": "au goût" }
+  ],
+  "steps": [
+    "Rincer les lentilles. Hacher finement l'oignon, la carotte, le céleri et l'ail. Couper les champignons en petits dés.",
+    "Chauffer l'huile dans une cocotte à feu moyen. Faire revenir l'oignon, la carotte et le céleri 8 minutes, puis ajouter les champignons et cuire 5 minutes, jusqu'à ce que leur eau s'évapore. Ajouter l'ail et le concentré de tomate, cuire 1 minute.",
+    "Ajouter les lentilles, les tomates concassées, l'eau, la sauce soja, l'origan et le laurier. Couvrir et laisser mijoter 35 à 40 minutes à feu doux en remuant de temps en temps, jusqu'à ce que les lentilles soient tendres. Ajouter un peu d'eau si la sauce attache.",
+    "Cuire les spaghetti dans une grande quantité d'eau bouillante salée selon les indications du paquet, puis égoutter.",
+    "Retirer le laurier, saler et poivrer la sauce. Servir sur les spaghetti, parsemé de parmesan."
+  ],
+  "footnote": "Les lentilles vertes du Puy tiennent mieux à la cuisson que les lentilles brunes. Céréales complètes et lentilles se complètent : ensemble, leur profil en acides aminés est bien plus équilibré que chacune seule. La sauce se garde 3 jours au réfrigérateur et se congèle très bien."
+}

@@ -9,6 +9,7 @@
   "prepTime": 20,
   "cookTime": 45,
   "createdAt": "2026-09-20",
+  "nutrition": { "kcal": 630, "protein": 20, "proteinAdjusted": 18 },
   "ingredients": [
     { "name": "Mini-carottes", "amount": 8, "unit": "" },
     { "name": "Bulbe de fenouil", "amount": 0.5, "unit": "" },
@@ -32,5 +33,5 @@
     "Préparer la polenta : dans une casserole, porter le lait à ébullition avec une pincée de sel. Verser la polenta en pluie en fouettant. Cuire à feu doux en remuant, 5 à 10 minutes selon la polenta (voir le paquet), jusqu'à ce qu'elle épaississe. Hors du feu, incorporer le reste de l'huile d'olive et le parmesan. Poivrer.",
     "Répartir la polenta dans des assiettes creuses, disposer les légumes rôtis par-dessus, ajouter le pesto de persil et parsemer de noisettes concassées. Presser les gousses d'ail rôties pour en extraire la chair fondante."
   ],
-  "footnote": "Les mini-carottes peuvent être remplacées par des carottes classiques (environ 1 carotte pour 4 mini-carottes), coupées en bâtonnets."
+  "footnote": "Les mini-carottes peuvent être remplacées par des carottes classiques (environ 1 carotte pour 4 mini-carottes), coupées en bâtonnets. Pour un plat plus complet, rôtir 400 g de pois chiches égouttés avec les légumes (environ +6 g de protéines assimilables par portion)."
 }

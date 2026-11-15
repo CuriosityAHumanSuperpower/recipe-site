@@ -10,8 +10,12 @@ const modules = import.meta.glob('./recipes/*.json', { eager: true });
 export const SEASONS = ['printemps', 'été', 'automne', 'hiver'];
 export const SEASON_ICONS = { printemps: '🌱', été: '☀️', automne: '🍂', hiver: '❄️' };
 
-// Tag calculé automatiquement : temps total (repos compris) ≤ 30 min.
+// Tags calculés automatiquement :
+//   "rapide"             : temps total (repos compris) ≤ 30 min
+//   "riche en protéines" : ≥ 20 g de protéines assimilables par portion
+//                          (champ nutrition.proteinAdjusted, voir README)
 const QUICK_MAX_MINUTES = 30;
+const HIGH_PROTEIN_MIN_G = 20;
 
 const categoryLabel = Object.fromEntries(categories.map((c) => [c.id, c.label]));
 
@@ -22,6 +26,9 @@ const recipes = Object.entries(modules)
     const tags = [...(r.tags ?? [])];
     if (getTimes(r).total && getTimes(r).total <= QUICK_MAX_MINUTES && !tags.includes('rapide')) {
       tags.push('rapide');
+    }
+    if (r.nutrition?.proteinAdjusted >= HIGH_PROTEIN_MIN_G && !tags.includes('riche en protéines')) {
+      tags.push('riche en protéines');
     }
     return { ...r, tags, categoryLabel: categoryLabel[r.category] ?? '' };
   });

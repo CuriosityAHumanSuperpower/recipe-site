@@ -10,6 +10,7 @@
   "cookTime": 65,
   "restTime": 10,
   "createdAt": "2026-06-30",
+  "nutrition": { "kcal": 720, "protein": 25, "proteinAdjusted": 22 },
   "ingredients": [
     { "name": "Courge butternut, pelée et coupée en dés", "amount": 900, "unit": "g" },
     { "name": "Chèvre frais", "amount": 200, "unit": "g" },

@@ -9,6 +9,7 @@
   "prepTime": 20,
   "cookTime": 55,
   "createdAt": "2026-09-20",
+  "nutrition": { "kcal": 400, "protein": 21, "proteinAdjusted": 17 },
   "ingredients": [
     { "name": "Plaques de lasagnes fraîches (ou faites maison)", "amount": 6, "unit": "" },
     { "name": "Champignons (de Paris, pleurotes, cèpes, girolles…)", "amount": 800, "unit": "g" },
@@ -28,5 +29,6 @@
     "Préparer la béchamel : délayer la Maïzena dans le lait froid, puis faire épaissir à feu doux en remuant avec une cuillère en bois. Une fois épaissie, cuire encore 2 minutes sans cesser de remuer, puis ajouter la muscade et le reste du sel et du poivre.",
     "Préchauffer le four à 210 °C (th. 7). Huiler un plat à four. Monter les lasagnes en trois couches : un tiers des plaques, la moitié des champignons et un tiers de la béchamel ; à nouveau un tiers des plaques, le reste des champignons et un deuxième tiers de béchamel ; enfin les dernières plaques, recouvertes du reste de béchamel mélangé au gruyère râpé.",
     "Enfourner 35 à 45 minutes, jusqu'à ce que le dessus soit bien doré."
-  ]
+  ],
+  "footnote": "Pour un plat plus protéiné, étaler 250 g de ricotta entre les couches (environ +6 g assimilables par portion) ou ajouter aux champignons 150 g de lentilles corail (poids sec) cuites (+7 g)."
 }

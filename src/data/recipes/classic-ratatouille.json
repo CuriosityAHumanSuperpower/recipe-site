@@ -9,6 +9,7 @@
   "prepTime": 20,
   "cookTime": 50,
   "createdAt": "2024-03-22",
+  "nutrition": { "kcal": 220, "protein": 5, "proteinAdjusted": 3 },
   "ingredients": [
     { "name": "Aubergine", "amount": 1, "unit": "" },
     { "name": "Courgettes", "amount": 2, "unit": "" },
@@ -33,5 +34,5 @@
     "Couvrir et laisser mijoter à feu doux 35 à 40 minutes en remuant de temps en temps, jusqu'à ce que tous les légumes soient tendres et la sauce bien réduite.",
     "Retirer le laurier, parsemer de basilic frais déchiré et rectifier l'assaisonnement avant de servir."
   ],
-  "footnote": "La ratatouille est encore meilleure réchauffée le lendemain. Se sert chaude en accompagnement ou en plat avec du pain croûté ou du riz."
+  "footnote": "La ratatouille est encore meilleure réchauffée le lendemain. Se sert chaude en accompagnement ou en plat avec du pain croûté ou du riz. Seule, la ratatouille apporte peu de protéines. Pour en faire un plat complet, ajouter 400 g de pois chiches égouttés en fin de cuisson et servir avec du boulgour ou du quinoa (environ 80 g cru par personne) : on passe d'environ 3 g à 16 g de protéines assimilables par portion. Un œuf poché par personne en ajoute encore 6 g."
 }

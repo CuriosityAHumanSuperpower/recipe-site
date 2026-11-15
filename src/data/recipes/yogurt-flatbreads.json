@@ -10,6 +10,7 @@
   "prepTime": 10,
   "cookTime": 15,
   "createdAt": "2026-06-30",
+  "nutrition": { "kcal": 210, "protein": 7, "proteinAdjusted": 5 },
   "ingredients": [
     { "name": "Yaourt nature entier", "amount": 300, "unit": "g" },
     { "name": "Farine (type 55)", "amount": 300, "unit": "g" },

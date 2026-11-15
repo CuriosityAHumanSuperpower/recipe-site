@@ -9,6 +9,7 @@
   "prepTime": 15,
   "cookTime": 25,
   "createdAt": "2026-06-30",
+  "nutrition": { "kcal": 620, "protein": 20, "proteinAdjusted": 15 },
   "ingredients": [
     { "name": "Pâtes fraîches (tagliatelles ou pappardelles)", "amount": 400, "unit": "g" },
     { "name": "Poivrons rouges", "amount": 4, "unit": "" },
@@ -29,5 +30,5 @@
     "Cuire les pâtes dans une grande quantité d'eau bouillante bien salée selon les indications, égoutter en conservant un petit bol d'eau de cuisson.",
     "Mélanger les pâtes chaudes avec la sauce en ajoutant un peu d'eau de cuisson pour ajuster la consistance. Servir immédiatement avec du parmesan supplémentaire et quelques feuilles de basilic."
   ],
-  "footnote": "Griller les poivrons directement à la flamme donne un caractère fumé bien plus profond que la cuisson au four — ça vaut les quelques minutes supplémentaires. La sauce se prépare la veille et se conserve au réfrigérateur ; la remettre à température ambiante avant de la mélanger aux pâtes."
+  "footnote": "Griller les poivrons directement à la flamme donne un caractère fumé bien plus profond que la cuisson au four — ça vaut les quelques minutes supplémentaires. La sauce se prépare la veille et se conserve au réfrigérateur ; la remettre à température ambiante avant de la mélanger aux pâtes. Pour plus de protéines, remplacer les pâtes fraîches par 320 g de pâtes de lentilles sèches (environ +8 g assimilables par portion) ou servir avec une burrata pour deux (+7 g)."
 }

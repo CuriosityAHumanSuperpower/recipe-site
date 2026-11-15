@@ -9,6 +9,7 @@
   "prepTime": 5,
   "cookTime": 30,
   "createdAt": "2026-06-30",
+  "nutrition": { "kcal": 215, "protein": 6, "proteinAdjusted": 5 },
   "ingredients": [
     { "name": "Oignons", "amount": 4, "unit": "" },
     { "name": "Beurre de cacahuète", "amount": 3, "unit": "cuillère à soupe" },

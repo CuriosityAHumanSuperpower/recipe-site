@@ -1,0 +1,38 @@
+{
+  "id": "bowl-tempeh-quinoa-patate-douce",
+  "title": "Bowl quinoa, tempeh laqué & patate douce, sauce tahini",
+  "description": "Du tempeh laqué au tamari et au sirop d'érable, de la patate douce rôtie, du quinoa et du chou kale, nappés d'une sauce tahini-citron. Un bol végétalien très complet.",
+  "tags": ["végétarien", "végétalien", "sans gluten", "automne", "hiver"],
+  "category": "main",
+  "sortKey": "Bowl tempeh",
+  "baseServings": 4,
+  "prepTime": 20,
+  "cookTime": 30,
+  "createdAt": "2026-11-15",
+  "nutrition": { "kcal": 760, "protein": 33, "proteinAdjusted": 27 },
+  "ingredients": [
+    { "name": "Tempeh", "amount": 400, "unit": "g" },
+    { "name": "Quinoa (poids cru)", "amount": 200, "unit": "g" },
+    { "name": "Patates douces", "amount": 600, "unit": "g" },
+    { "name": "Chou kale (ou pousses d'épinards)", "amount": 150, "unit": "g" },
+    { "name": "Graines de courge", "amount": 30, "unit": "g" },
+    { "name": "Huile d'olive", "amount": 3, "unit": "cuillère à soupe" },
+    { "name": "Tamari (sauce soja sans gluten)", "amount": 3, "unit": "cuillère à soupe" },
+    { "name": "Sirop d'érable", "amount": 1, "unit": "cuillère à soupe" },
+    { "name": "Paprika fumé", "amount": 1, "unit": "cuillère à café" },
+    { "name": "Tahini (purée de sésame)", "amount": 60, "unit": "g" },
+    { "name": "Citron (jus)", "amount": 1, "unit": "" },
+    { "name": "Gousse d'ail", "amount": 1, "unit": "" },
+    { "name": "Eau froide", "amount": 4, "unit": "cuillère à soupe" },
+    { "name": "Sel", "amount": 0.5, "unit": "cuillère à café" }
+  ],
+  "steps": [
+    "Préchauffer le four à 200 °C. Éplucher les patates douces et les couper en cubes de 2 cm. Les mélanger avec un tiers de l'huile, le paprika et la moitié du sel, puis les étaler sur une plaque. Rôtir 25 à 30 minutes en les retournant à mi-cuisson.",
+    "Rincer le quinoa et le cuire dans deux fois son volume d'eau salée 12 à 15 minutes, jusqu'à absorption. Couvrir et laisser gonfler hors du feu.",
+    "Couper le tempeh en tranches fines. Mélanger le tamari et le sirop d'érable. Chauffer un deuxième tiers de l'huile dans une poêle à feu moyen, dorer le tempeh 3 minutes par face, puis verser le mélange tamari-sirop et laisser laquer 1 minute en retournant les tranches.",
+    "Préparer la sauce : fouetter le tahini avec le jus du citron, l'ail râpé et le reste du sel, en ajoutant l'eau froide petit à petit jusqu'à obtenir une sauce lisse et coulante.",
+    "Retirer les côtes du kale, émincer les feuilles et les masser 1 minute avec le reste de l'huile pour les attendrir. Faire griller les graines de courge à sec 2 minutes dans la poêle.",
+    "Répartir le quinoa dans les bols, ajouter le kale, la patate douce et le tempeh, napper de sauce tahini et parsemer de graines de courge."
+  ],
+  "footnote": "Le tempeh, du soja fermenté, est plus riche en protéines que le tofu et très digeste. Le tahini et les graines de courge apportent du fer, du zinc et du calcium ; le jus de citron (vitamine C) aide à mieux absorber le fer végétal."
+}

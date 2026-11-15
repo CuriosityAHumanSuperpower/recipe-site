@@ -76,6 +76,16 @@ for (const file of files) {
     }
   }
 
+  if (recipe.nutrition !== undefined) {
+    const { kcal, protein, proteinAdjusted } = recipe.nutrition;
+    for (const [k, v] of Object.entries({ kcal, protein, proteinAdjusted })) {
+      if (v !== undefined && (typeof v !== 'number' || v < 0)) problems.push(`nutrition.${k} doit être un nombre positif`);
+    }
+    if (protein !== undefined && proteinAdjusted !== undefined && proteinAdjusted > protein) {
+      problems.push('nutrition.proteinAdjusted ne peut pas dépasser nutrition.protein');
+    }
+  }
+
   (recipe.ingredients ?? []).forEach((ing, i) => {
     const where = `ingrédient ${i + 1} (${ing.name ?? '?'})`;
     if (!ing.name) problems.push(`${where} : nom manquant`);

@@ -11,6 +11,7 @@
   "prepTime": 20,
   "cookTime": 40,
   "createdAt": "2026-11-14",
+  "nutrition": { "kcal": 440, "protein": 7, "proteinAdjusted": 6 },
   "ingredients": [
     { "name": "Beurre fondu, refroidi", "amount": 65, "unit": "g" },
     { "name": "Gros citron non traité (zeste)", "amount": 1, "unit": "" },

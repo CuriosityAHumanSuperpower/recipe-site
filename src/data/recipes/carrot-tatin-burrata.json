@@ -10,6 +10,7 @@
   "prepTime": 15,
   "cookTime": 45,
   "createdAt": "2026-06-30",
+  "nutrition": { "kcal": 560, "protein": 12, "proteinAdjusted": 10 },
   "ingredients": [
     { "name": "Carottes, pelées", "amount": 700, "unit": "g" },
     { "name": "Pâte feuilletée prête à l'emploi (roulée)", "amount": 1, "unit": "" },

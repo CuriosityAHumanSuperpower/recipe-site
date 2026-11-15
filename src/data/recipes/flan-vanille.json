@@ -12,6 +12,7 @@
   "cookTime": 50,
   "restTime": 240,
   "createdAt": "2026-10-28",
+  "nutrition": { "kcal": 360, "protein": 9, "proteinAdjusted": 9 },
   "ingredients": [
     { "name": "Lait entier", "amount": 1, "unit": "l" },
     { "name": "Gousses de vanille", "amount": 2, "unit": "" },

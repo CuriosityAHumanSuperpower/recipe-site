@@ -19,6 +19,8 @@
   "restTime": 0,
   "_timesHelp": "En minutes. restTime (repos, réfrigération…) est optionnel et compte dans le temps total.",
   "createdAt": "2026-11-14",
+  "nutrition": { "kcal": 600, "protein": 30, "proteinAdjusted": 25 },
+  "_nutritionHelp": "Optionnel, PAR PORTION. proteinAdjusted = protéines pondérées : œufs/laitages × 1, soja × 0,9, légumineuses × 0,8, céréales/oléagineux/légumes × 0,7. ≥ 20 g -> tag 'riche en protéines' automatique. Supprimer si inconnu.",
   "ingredients": [
     { "name": "Farine", "amount": 250, "unit": "g" },
     { "name": "Lait", "amount": 500, "unit": "ml" },

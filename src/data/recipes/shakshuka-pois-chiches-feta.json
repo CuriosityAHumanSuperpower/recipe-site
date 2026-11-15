@@ -1,0 +1,37 @@
+{
+  "id": "shakshuka-pois-chiches-feta",
+  "title": "Shakshuka aux pois chiches & feta",
+  "description": "Des œufs pochés dans une sauce tomate-poivrons épicée au cumin et au paprika, enrichie de pois chiches et parsemée de feta. À saucer avec du pain complet.",
+  "tags": ["végétarien", "été", "automne"],
+  "category": "main",
+  "sortKey": "Shakshuka",
+  "baseServings": 4,
+  "prepTime": 15,
+  "cookTime": 30,
+  "createdAt": "2026-11-15",
+  "nutrition": { "kcal": 640, "protein": 33, "proteinAdjusted": 29 },
+  "ingredients": [
+    { "name": "Œufs", "amount": 8, "unit": "" },
+    { "name": "Pois chiches en boîte, égouttés", "amount": 400, "unit": "g" },
+    { "name": "Tomates concassées en boîte", "amount": 800, "unit": "g" },
+    { "name": "Poivrons rouges", "amount": 2, "unit": "" },
+    { "name": "Oignon", "amount": 1, "unit": "" },
+    { "name": "Gousses d'ail", "amount": 3, "unit": "" },
+    { "name": "Feta", "amount": 150, "unit": "g" },
+    { "name": "Huile d'olive", "amount": 2, "unit": "cuillère à soupe" },
+    { "name": "Cumin en poudre", "amount": 2, "unit": "cuillère à café" },
+    { "name": "Paprika fumé", "amount": 2, "unit": "cuillère à café" },
+    { "name": "Sel", "amount": 1, "unit": "cuillère à café" },
+    { "name": "Piment de Cayenne ou harissa", "amount": null, "unit": "au goût" },
+    { "name": "Persil ou coriandre frais", "amount": 1, "unit": "poignée" },
+    { "name": "Pain complet (pour servir)", "amount": 200, "unit": "g" }
+  ],
+  "steps": [
+    "Émincer l'oignon et les poivrons en fines lanières, hacher l'ail.",
+    "Chauffer l'huile dans une grande sauteuse à feu moyen. Faire revenir l'oignon et les poivrons 8 à 10 minutes jusqu'à ce qu'ils soient tendres. Ajouter l'ail, le cumin, le paprika et le piment, et cuire 1 minute.",
+    "Ajouter les tomates concassées, les pois chiches et le sel. Laisser mijoter 10 minutes à feu doux, jusqu'à ce que la sauce épaississe.",
+    "Creuser des puits dans la sauce avec le dos d'une cuillère et y casser les œufs. Couvrir et cuire à feu doux 6 à 8 minutes, jusqu'à ce que les blancs soient pris et les jaunes encore coulants.",
+    "Émietter la feta sur le dessus, parsemer d'herbes hachées et servir aussitôt dans la sauteuse, avec le pain complet grillé."
+  ],
+  "footnote": "Compter 2 œufs par personne. Hors saison, des poivrons grillés en bocal font très bien l'affaire. Les œufs et la feta apportent des protéines animales parfaitement assimilées, ainsi que de la vitamine B12, indispensable quand on ne mange pas de viande."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "gratin-haricots-blancs-poireaux-comte",
+  "title": "Gratin de haricots blancs & poireaux au comté",
+  "description": "Des poireaux fondants et des haricots blancs liés d'une béchamel légère au comté, sous une croûte croustillante de chapelure et de noisettes. Un gratin d'hiver réconfortant et complet.",
+  "tags": ["végétarien", "automne", "hiver"],
+  "category": "main",
+  "sortKey": "Gratin de haricots",
+  "baseServings": 4,
+  "prepTime": 20,
+  "cookTime": 40,
+  "createdAt": "2026-11-15",
+  "nutrition": { "kcal": 580, "protein": 30, "proteinAdjusted": 26 },
+  "ingredients": [
+    { "name": "Haricots blancs en boîte, égouttés", "amount": 800, "unit": "g" },
+    { "name": "Poireaux", "amount": 800, "unit": "g" },
+    { "name": "Comté râpé", "amount": 120, "unit": "g" },
+    { "name": "Lait demi-écrémé", "amount": 300, "unit": "ml" },
+    { "name": "Beurre", "amount": 30, "unit": "g" },
+    { "name": "Farine", "amount": 30, "unit": "g" },
+    { "name": "Moutarde de Dijon", "amount": 1, "unit": "cuillère à café" },
+    { "name": "Thym séché", "amount": 1, "unit": "cuillère à café" },
+    { "name": "Noix de muscade râpée", "amount": 1, "unit": "pincée" },
+    { "name": "Pain complet rassis", "amount": 60, "unit": "g" },
+    { "name": "Noisettes", "amount": 30, "unit": "g" },
+    { "name": "Sel", "amount": 1, "unit": "cuillère à café" },
+    { "name": "Poivre noir", "amount": null, "unit": "au goût" }
+  ],
+  "steps": [
+    "Préchauffer le four à 200 °C. Couper les poireaux en rondelles d'un centimètre, les laver soigneusement pour retirer la terre et les égoutter.",
+    "Faire fondre la moitié du beurre dans une grande sauteuse à feu moyen, ajouter les poireaux, le thym et la moitié du sel. Couvrir et cuire 10 minutes en remuant de temps en temps, jusqu'à ce qu'ils soient fondants.",
+    "Préparer la béchamel : faire fondre le reste du beurre dans une casserole, ajouter la farine et cuire 1 minute en fouettant. Verser le lait petit à petit sans cesser de fouetter, puis laisser épaissir 3 à 4 minutes. Hors du feu, ajouter la moutarde, la muscade, le reste du sel, du poivre et les deux tiers du comté.",
+    "Mélanger les poireaux, les haricots blancs et la béchamel, puis verser dans un plat à gratin.",
+    "Mixer grossièrement le pain et les noisettes, mélanger avec le reste du comté et répartir sur le gratin.",
+    "Enfourner 20 à 25 minutes, jusqu'à ce que le dessus soit bien doré et croustillant. Servir avec une salade verte."
+  ],
+  "footnote": "Le comté AOP est fabriqué avec de la présure animale : pour un plat strictement végétarien, choisir un fromage à pâte pressée à présure végétale. Pour une version sans gluten, remplacer la farine par de la fécule de maïs et le pain par davantage de noisettes."
+}

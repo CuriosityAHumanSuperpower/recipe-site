@@ -1,0 +1,39 @@
+{
+  "id": "tofu-croustillant-soba-cacahuete",
+  "title": "Tofu croustillant, nouilles soba & sauce cacahuète",
+  "description": "Des cubes de tofu dorés à la poêle, des nouilles soba, du brocoli et des edamame, enrobés d'une sauce cacahuète-citron vert relevée. Végétalien et riche en protéines.",
+  "tags": ["végétarien", "végétalien", "printemps", "été", "automne", "hiver"],
+  "category": "main",
+  "sortKey": "Tofu",
+  "baseServings": 4,
+  "prepTime": 20,
+  "cookTime": 20,
+  "createdAt": "2026-11-15",
+  "nutrition": { "kcal": 650, "protein": 34, "proteinAdjusted": 27 },
+  "ingredients": [
+    { "name": "Tofu ferme", "amount": 400, "unit": "g" },
+    { "name": "Fécule de maïs", "amount": 2, "unit": "cuillère à soupe" },
+    { "name": "Nouilles soba sèches", "amount": 250, "unit": "g" },
+    { "name": "Edamame décortiqués (surgelés)", "amount": 200, "unit": "g" },
+    { "name": "Brocoli", "amount": 300, "unit": "g" },
+    { "name": "Huile neutre", "amount": 2, "unit": "cuillère à soupe" },
+    { "name": "Beurre de cacahuète (100 % cacahuètes)", "amount": 60, "unit": "g" },
+    { "name": "Sauce soja", "amount": 3, "unit": "cuillère à soupe" },
+    { "name": "Citron vert (jus)", "amount": 1, "unit": "" },
+    { "name": "Sirop d'érable ou d'agave", "amount": 1, "unit": "cuillère à soupe" },
+    { "name": "Eau chaude", "amount": 4, "unit": "cuillère à soupe" },
+    { "name": "Gousse d'ail", "amount": 1, "unit": "" },
+    { "name": "Gingembre frais", "amount": 2, "unit": "cm" },
+    { "name": "Ciboules", "amount": 2, "unit": "" },
+    { "name": "Graines de sésame", "amount": 1, "unit": "cuillère à soupe" },
+    { "name": "Piment (flocons ou sriracha)", "amount": null, "unit": "au goût" }
+  ],
+  "steps": [
+    "Égoutter le tofu, l'envelopper dans un torchon propre et le presser 10 minutes sous un poids (une casserole) pour retirer l'excès d'eau. Le couper en cubes de 2 cm et les rouler dans la fécule de maïs.",
+    "Préparer la sauce : râper l'ail et le gingembre, puis les fouetter avec le beurre de cacahuète, la sauce soja, le jus du citron vert, le sirop, l'eau chaude et le piment jusqu'à obtenir une sauce lisse et nappante.",
+    "Détailler le brocoli en petits bouquets. Porter une grande casserole d'eau à ébullition et y cuire les nouilles soba selon les indications du paquet, en ajoutant le brocoli et les edamame pour les 3 dernières minutes. Égoutter et rincer brièvement à l'eau froide.",
+    "Pendant ce temps, chauffer l'huile dans une grande poêle à feu moyen-vif et faire dorer les cubes de tofu 8 à 10 minutes en les retournant, jusqu'à ce qu'ils soient croustillants sur toutes les faces.",
+    "Mélanger les nouilles, le brocoli et les edamame avec la sauce. Répartir dans les bols, ajouter le tofu croustillant, les ciboules émincées et les graines de sésame."
+  ],
+  "footnote": "Presser le tofu est la clé du croustillant. Le soja (tofu, edamame) a l'une des meilleures qualités protéiques du monde végétal. Les soba contiennent souvent du blé : pour une version sans gluten, choisir des soba 100 % sarrasin et du tamari à la place de la sauce soja."
+}

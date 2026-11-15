@@ -1,0 +1,38 @@
+{
+  "id": "salade-boulgour-pois-chiches-halloumi",
+  "title": "Salade de boulgour, pois chiches & halloumi grillé",
+  "description": "Un taboulé généreux de boulgour, pois chiches, tomates, concombre et herbes fraîches, garni de tranches de halloumi dorées et de graines de courge. Se mange tiède ou froid.",
+  "tags": ["végétarien", "été"],
+  "category": "main",
+  "sortKey": "Salade de boulgour",
+  "baseServings": 4,
+  "prepTime": 20,
+  "cookTime": 15,
+  "createdAt": "2026-11-15",
+  "nutrition": { "kcal": 680, "protein": 31, "proteinAdjusted": 26 },
+  "ingredients": [
+    { "name": "Boulgour (poids cru)", "amount": 200, "unit": "g" },
+    { "name": "Eau bouillante", "amount": 400, "unit": "ml" },
+    { "name": "Pois chiches en boîte, égouttés", "amount": 400, "unit": "g" },
+    { "name": "Halloumi", "amount": 250, "unit": "g" },
+    { "name": "Tomates", "amount": 3, "unit": "" },
+    { "name": "Concombre", "amount": 1, "unit": "" },
+    { "name": "Oignon rouge", "amount": 0.5, "unit": "" },
+    { "name": "Persil plat", "amount": 30, "unit": "g" },
+    { "name": "Menthe fraîche", "amount": 15, "unit": "g" },
+    { "name": "Graines de courge", "amount": 40, "unit": "g" },
+    { "name": "Citron (jus)", "amount": 1, "unit": "" },
+    { "name": "Huile d'olive", "amount": 3, "unit": "cuillère à soupe" },
+    { "name": "Cumin en poudre", "amount": 1, "unit": "cuillère à café" },
+    { "name": "Sel", "amount": null, "unit": "au goût" }
+  ],
+  "steps": [
+    "Verser l'eau bouillante légèrement salée sur le boulgour, couvrir et laisser gonfler 15 minutes. Égrener à la fourchette et laisser tiédir.",
+    "Couper les tomates et le concombre en petits dés, émincer finement l'oignon rouge, hacher le persil et la menthe.",
+    "Préparer la vinaigrette : fouetter le jus de citron avec les deux tiers de l'huile d'olive, le cumin et un peu de sel.",
+    "Mélanger le boulgour, les pois chiches, les légumes, les herbes et la vinaigrette. Goûter et rectifier l'assaisonnement.",
+    "Couper le halloumi en tranches d'un demi-centimètre. Chauffer le reste de l'huile dans une poêle à feu moyen-vif et le faire dorer 1 à 2 minutes par face. Faire griller les graines de courge à sec 2 minutes.",
+    "Servir la salade garnie de halloumi chaud et de graines de courge."
+  ],
+  "footnote": "Le halloumi est très salé : saler la salade avec modération. Version végétalienne : remplacer le halloumi par du tofu fumé grillé (un peu moins de protéines). La salade sans le halloumi se garde 2 jours au réfrigérateur, pratique pour les repas à emporter."
+}

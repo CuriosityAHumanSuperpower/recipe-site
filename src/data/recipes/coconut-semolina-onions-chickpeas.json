@@ -9,6 +9,7 @@
   "prepTime": 10,
   "cookTime": 35,
   "createdAt": "2026-06-30",
+  "nutrition": { "kcal": 720, "protein": 21, "proteinAdjusted": 15 },
   "ingredients": [
     { "name": "Semoule de blé dur (grain moyen)", "amount": 300, "unit": "g" },
     { "name": "Lait de coco entier", "amount": 400, "unit": "ml" },
@@ -28,5 +29,5 @@
     "Dans une casserole, porter le lait de coco, l'eau, le reste du paprika et le reste du sel à frémissement. Verser la semoule en pluie fine en remuant constamment. Cuire à feu doux 3 à 4 minutes en remuant, jusqu'à ce que la semoule soit épaisse et se détache des parois. Couvrir et laisser gonfler hors du feu 2 minutes.",
     "Verser la semoule dans des bols ou sur un grand plat, déposer généreusement les oignons caramélisés et les pois chiches épicés par-dessus. Terminer avec la coriandre ou le persil frais et le reste de l'huile d'olive en filet."
   ],
-  "footnote": "Les oignons ont besoin de temps — trop fort, trop vite, ils deviennent mous sans caraméliser. Feu doux et patience. Un petit filet d'eau en milieu de cuisson si ça accroche permet de récupérer les sucs sans perdre la couleur."
+  "footnote": "Les oignons ont besoin de temps — trop fort, trop vite, ils deviennent mous sans caraméliser. Feu doux et patience. Un petit filet d'eau en milieu de cuisson si ça accroche permet de récupérer les sucs sans perdre la couleur. Pour plus de protéines : doubler la quantité de pois chiches (environ +6 g assimilables par portion) ou servir avec un œuf mollet par personne (+6 g)."
 }

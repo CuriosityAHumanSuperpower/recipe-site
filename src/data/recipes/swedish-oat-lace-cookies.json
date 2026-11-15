@@ -12,6 +12,7 @@
   "cookTime": 60,
   "restTime": 120,
   "createdAt": "2026-06-30",
+  "nutrition": { "kcal": 55, "protein": 0.7, "proteinAdjusted": 0.5 },
   "ingredients": [
     { "name": "Flocons d'avoine", "amount": 200, "unit": "g" },
     { "name": "Sucre", "amount": 300, "unit": "g" },

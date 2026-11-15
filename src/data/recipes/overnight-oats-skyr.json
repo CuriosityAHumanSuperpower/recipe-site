@@ -1,0 +1,30 @@
+{
+  "id": "overnight-oats-skyr",
+  "title": "Overnight oats au skyr, beurre de cacahuète & fruits rouges",
+  "description": "Des flocons d'avoine trempés toute la nuit dans le lait et le skyr, avec des graines de chia, du beurre de cacahuète et des fruits rouges. Un petit-déjeuner prêt au réveil qui tient jusqu'à midi.",
+  "tags": ["végétarien", "printemps", "été", "automne", "hiver"],
+  "category": "breakfast",
+  "sortKey": "Overnight oats",
+  "baseServings": 2,
+  "prepTime": 5,
+  "cookTime": 0,
+  "restTime": 360,
+  "createdAt": "2026-11-15",
+  "nutrition": { "kcal": 540, "protein": 32, "proteinAdjusted": 28 },
+  "ingredients": [
+    { "name": "Flocons d'avoine", "amount": 100, "unit": "g" },
+    { "name": "Skyr nature", "amount": 300, "unit": "g" },
+    { "name": "Lait (ou boisson au soja)", "amount": 200, "unit": "ml" },
+    { "name": "Graines de chia", "amount": 20, "unit": "g" },
+    { "name": "Beurre de cacahuète", "amount": 30, "unit": "g" },
+    { "name": "Fruits rouges (frais ou surgelés)", "amount": 200, "unit": "g" },
+    { "name": "Miel ou sirop d'érable", "amount": 1, "unit": "cuillère à soupe" },
+    { "name": "Cannelle", "amount": 1, "unit": "pincée" }
+  ],
+  "steps": [
+    "La veille, mélanger les flocons d'avoine, le skyr, le lait, les graines de chia, le miel et la cannelle dans un saladier ou directement dans des bocaux.",
+    "Couvrir et réfrigérer au moins 6 heures, idéalement toute la nuit : l'avoine et le chia absorbent le liquide et la texture devient crémeuse.",
+    "Le matin, mélanger, ajouter un peu de lait si c'est trop épais, puis garnir de fruits rouges et de beurre de cacahuète."
+  ],
+  "footnote": "Se garde 2 jours au réfrigérateur. Avec une boisson et un yaourt au soja à la place du lait et du skyr, la version végétalienne apporte environ un tiers de protéines en moins. Les flocons d'avoine contiennent du gluten, sauf mention « sans gluten » sur le paquet."
+}

@@ -2,6 +2,7 @@ import { useRef } from 'react';
 import { Link, useParams, useNavigate, Navigate } from 'react-router-dom';
 import ServingsControl from './ServingsControl';
 import TimeStats from './TimeStats';
+import NutritionInfo from './NutritionInfo';
 import { formatQuantity } from '../utils/scale';
 import { getRecipeById, getSeasons, getNonSeasonTags, SEASONS, SEASON_ICONS } from '../data/recipesIndex';
 import { useHeightVar } from '../utils/useHeightVar';
@@ -83,6 +84,7 @@ function RecipeView({ recipe }) {
           </div>
 
           <TimeStats recipe={recipe} />
+          <NutritionInfo nutrition={recipe.nutrition} />
 
           <ServingsControl
             servings={servings}

@@ -9,6 +9,7 @@
   "prepTime": 15,
   "cookTime": 20,
   "createdAt": "2026-06-30",
+  "nutrition": { "kcal": 340, "protein": 15, "proteinAdjusted": 12 },
   "ingredients": [
     { "name": "Petits pois frais ou surgelés", "amount": 400, "unit": "g" },
     { "name": "Asperges, parées", "amount": 350, "unit": "g" },

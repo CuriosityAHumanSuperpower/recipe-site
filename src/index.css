@@ -543,6 +543,34 @@ ul.ingredient-list {
 .steps-block li[data-checked] { opacity: 0.45; }
 .steps-block li { transition: opacity 0.15s; }
 
+/* ---------- Apports nutritionnels ---------- */
+.nutrition {
+  margin: 0 0 18px;
+  padding-bottom: 18px;
+  border-bottom: 1px solid var(--line);
+}
+.nutrition-title {
+  font-size: 0.66rem;
+  color: var(--ink-faint);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin: 0 0 8px;
+  text-align: center;
+}
+.nutrition-values {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  margin: 0;
+  text-align: center;
+}
+.nutrition-values dt { font-size: 0.7rem; color: var(--ink-faint); }
+.nutrition-values dd { margin: 2px 0 0; font-size: 0.92rem; color: var(--ink-soft); white-space: nowrap; }
+.nutrition-values [data-strong] dd { font-weight: 600; color: var(--accent-ink); }
+.nutrition-help { margin-top: 10px; font-size: 0.78rem; color: var(--ink-soft); line-height: 1.5; }
+.nutrition-help summary { cursor: pointer; text-align: center; color: var(--ink-faint); }
+.nutrition-help p { margin: 8px 0 0; }
+
 .heading-row {
   display: flex;
   align-items: baseline;

@@ -1,0 +1,43 @@
+{
+  "id": "chili-sin-carne",
+  "title": "Chili sin carne aux haricots rouges",
+  "description": "Un chili généreux et fumé où les protéines de soja texturées remplacent la viande hachée, avec haricots rouges, maïs et une touche de chocolat noir. Servi avec du riz.",
+  "tags": ["végétarien", "végétalien", "sans gluten", "printemps", "été", "automne", "hiver"],
+  "category": "main",
+  "sortKey": "Chili",
+  "baseServings": 4,
+  "prepTime": 15,
+  "cookTime": 40,
+  "createdAt": "2026-11-15",
+  "nutrition": { "kcal": 620, "protein": 30, "proteinAdjusted": 25 },
+  "ingredients": [
+    { "name": "Protéines de soja texturées (PST), petit calibre", "amount": 100, "unit": "g" },
+    { "name": "Eau chaude (réhydratation)", "amount": 250, "unit": "ml" },
+    { "name": "Tamari (sauce soja sans gluten)", "amount": 2, "unit": "cuillère à soupe" },
+    { "name": "Haricots rouges en boîte, égouttés", "amount": 500, "unit": "g" },
+    { "name": "Maïs en boîte, égoutté", "amount": 140, "unit": "g" },
+    { "name": "Tomates concassées en boîte", "amount": 800, "unit": "g" },
+    { "name": "Riz (poids cru)", "amount": 240, "unit": "g" },
+    { "name": "Oignon", "amount": 1, "unit": "" },
+    { "name": "Poivron rouge", "amount": 1, "unit": "" },
+    { "name": "Gousses d'ail", "amount": 3, "unit": "" },
+    { "name": "Huile d'olive", "amount": 2, "unit": "cuillère à soupe" },
+    { "name": "Concentré de tomate", "amount": 2, "unit": "cuillère à soupe" },
+    { "name": "Cumin en poudre", "amount": 2, "unit": "cuillère à café" },
+    { "name": "Paprika fumé", "amount": 2, "unit": "cuillère à café" },
+    { "name": "Origan séché", "amount": 1, "unit": "cuillère à café" },
+    { "name": "Chocolat noir", "amount": 10, "unit": "g" },
+    { "name": "Piment (chipotle ou Cayenne)", "amount": null, "unit": "au goût" },
+    { "name": "Sel", "amount": null, "unit": "au goût" }
+  ],
+  "steps": [
+    "Réhydrater les protéines de soja 10 minutes dans l'eau chaude mélangée au tamari : elles doivent absorber tout le liquide.",
+    "Pendant ce temps, émincer l'oignon, couper le poivron en dés et hacher l'ail.",
+    "Chauffer l'huile dans une cocotte à feu moyen-vif. Faire revenir l'oignon et le poivron 5 minutes, puis ajouter les protéines de soja et les faire dorer 5 minutes en remuant : c'est ce qui leur donne une texture proche de la viande hachée.",
+    "Ajouter l'ail, le concentré de tomate, le cumin, le paprika, l'origan et le piment. Cuire 1 minute, puis verser les tomates concassées. Couvrir et laisser mijoter 20 minutes à feu doux.",
+    "Pendant ce temps, cuire le riz selon les indications du paquet.",
+    "Ajouter les haricots rouges, le maïs et le chocolat dans le chili. Poursuivre la cuisson 10 minutes à découvert, saler et rectifier le piment.",
+    "Servir sur le riz, avec un trait de citron vert et de la coriandre, ou un peu de yaourt si l'on n'est pas végétalien."
+  ],
+  "footnote": "Les protéines de soja texturées se trouvent au rayon bio ou en vrac ; vérifier qu'elles sont 100 % soja pour garder la recette sans gluten. Les haricots (riches en lysine) et le riz se complètent sur le plan des acides aminés. Le chili est encore meilleur réchauffé et se congèle très bien."
+}

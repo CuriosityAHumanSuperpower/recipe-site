@@ -1,0 +1,41 @@
+{
+  "id": "dahl-lentilles-corail-epinards",
+  "title": "Dahl de lentilles corail aux épinards, skyr citronné",
+  "description": "Un dahl crémeux au lait de coco et aux épices douces, enrichi d'épinards, servi sur du riz basmati avec un skyr citronné bien frais. Complet et rassasiant.",
+  "tags": ["végétarien", "sans gluten", "printemps", "été", "automne", "hiver"],
+  "category": "main",
+  "sortKey": "Dahl",
+  "baseServings": 4,
+  "prepTime": 15,
+  "cookTime": 30,
+  "createdAt": "2026-11-15",
+  "nutrition": { "kcal": 680, "protein": 32, "proteinAdjusted": 26 },
+  "ingredients": [
+    { "name": "Lentilles corail sèches", "amount": 300, "unit": "g" },
+    { "name": "Riz basmati (poids cru)", "amount": 240, "unit": "g" },
+    { "name": "Lait de coco", "amount": 200, "unit": "ml" },
+    { "name": "Tomates concassées en boîte", "amount": 400, "unit": "g" },
+    { "name": "Pousses d'épinards (fraîches ou surgelées)", "amount": 200, "unit": "g" },
+    { "name": "Skyr nature", "amount": 250, "unit": "g" },
+    { "name": "Eau", "amount": 700, "unit": "ml" },
+    { "name": "Oignon", "amount": 1, "unit": "" },
+    { "name": "Gousses d'ail", "amount": 3, "unit": "" },
+    { "name": "Gingembre frais", "amount": 3, "unit": "cm" },
+    { "name": "Huile d'olive ou neutre", "amount": 1, "unit": "cuillère à soupe" },
+    { "name": "Curry en poudre", "amount": 2, "unit": "cuillère à café" },
+    { "name": "Cumin en poudre", "amount": 1, "unit": "cuillère à café" },
+    { "name": "Curcuma", "amount": 1, "unit": "cuillère à café" },
+    { "name": "Citron (zeste et jus)", "amount": 1, "unit": "" },
+    { "name": "Sel", "amount": 1, "unit": "cuillère à café" },
+    { "name": "Coriandre fraîche (pour servir)", "amount": null, "unit": "au goût" }
+  ],
+  "steps": [
+    "Rincer les lentilles corail à l'eau froide jusqu'à ce que l'eau soit claire. Émincer l'oignon, hacher l'ail et râper le gingembre.",
+    "Chauffer l'huile dans une grande casserole à feu moyen. Faire revenir l'oignon 5 minutes, puis ajouter l'ail, le gingembre, le curry, le cumin et le curcuma. Cuire 1 minute en remuant, jusqu'à ce que les épices embaument.",
+    "Ajouter les lentilles, les tomates concassées, le lait de coco, l'eau et presque tout le sel. Porter à ébullition puis laisser mijoter à feu doux 20 à 25 minutes en remuant de temps en temps, jusqu'à ce que les lentilles se défassent en purée. Ajouter un peu d'eau si le dahl épaissit trop.",
+    "Pendant ce temps, cuire le riz selon les indications du paquet.",
+    "Hors du feu, incorporer les épinards dans le dahl : ils fondent en 1 à 2 minutes. Ajouter le jus de la moitié du citron et rectifier l'assaisonnement.",
+    "Mélanger le skyr avec le zeste, le jus du reste du citron et le reste du sel. Servir le dahl sur le riz, avec une cuillerée de skyr citronné et de la coriandre fraîche."
+  ],
+  "footnote": "Les lentilles apportent l'essentiel des protéines ; le riz complète leur profil en acides aminés et le skyr ajoute une protéine laitière très bien assimilée. Le jus de citron (vitamine C) aide aussi à absorber le fer des lentilles et des épinards. Version végétalienne : remplacer le skyr par un yaourt de soja nature (un peu moins de protéines)."
+}

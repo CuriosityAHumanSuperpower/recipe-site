@@ -11,6 +11,7 @@
   "prepTime": 15,
   "cookTime": 45,
   "createdAt": "2026-07-25",
+  "nutrition": { "kcal": 415, "protein": 13, "proteinAdjusted": 11 },
   "ingredients": [
     { "name": "Farine", "amount": 200, "unit": "g" },
     { "name": "Levure chimique", "amount": 11, "unit": "g" },

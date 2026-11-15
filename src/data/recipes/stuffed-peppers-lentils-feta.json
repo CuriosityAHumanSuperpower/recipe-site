@@ -9,6 +9,7 @@
   "prepTime": 25,
   "cookTime": 50,
   "createdAt": "2026-06-30",
+  "nutrition": { "kcal": 450, "protein": 20, "proteinAdjusted": 17 },
   "ingredients": [
     { "name": "Poivrons (rouge, jaune ou orange)", "amount": 4, "unit": "" },
     { "name": "Lentilles corail sèches", "amount": 150, "unit": "g" },
@@ -37,5 +38,5 @@
     "Enfourner 30 à 35 minutes. Les poivrons doivent être tendres (la peau commence à se plisser) et le dessus légèrement doré. Vérifier la cuisson avec la pointe d'un couteau.",
     "Laisser reposer 5 minutes. Servir avec une salade verte vinaigrette citron ou du pain grillé."
   ],
-  "footnote": "Privilégier les poivrons rouges, jaunes ou oranges — plus doux et sucrés que les verts, ils se marient mieux avec la feta et les épices. Choisir des poivrons bien droits pour qu'ils tiennent debout dans le plat. Se garde 2 jours au réfrigérateur, à réchauffer au four à 160 °C pendant 15 minutes."
+  "footnote": "Privilégier les poivrons rouges, jaunes ou oranges — plus doux et sucrés que les verts, ils se marient mieux avec la feta et les épices. Choisir des poivrons bien droits pour qu'ils tiennent debout dans le plat. Se garde 2 jours au réfrigérateur, à réchauffer au four à 160 °C pendant 15 minutes. Servir avec une sauce au skyr, à l'ail et aux herbes (250 g de skyr pour 4 personnes) : environ +7 g de protéines par portion."
 }

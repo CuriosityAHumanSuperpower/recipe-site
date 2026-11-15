@@ -10,6 +10,7 @@
   "cookTime": 0,
   "restTime": 120,
   "createdAt": "2026-06-30",
+  "nutrition": { "kcal": 460, "protein": 14, "proteinAdjusted": 12 },
   "ingredients": [
     { "name": "Tomates bien mûres", "amount": 1000, "unit": "g" },
     { "name": "Pain blanc rassis (sans croûte)", "amount": 150, "unit": "g" },

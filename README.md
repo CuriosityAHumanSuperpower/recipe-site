@@ -62,6 +62,13 @@ automatiquement. Le modèle documente chaque champ. Les points importants :
 - **Champs optionnels** : `restTime` (repos, en minutes, compté dans le
   total), `servingsLabel` (« Parts », « Galettes »…), `servingsNote` (taille
   du moule…), `footnote`.
+- **Apports nutritionnels** (optionnel), par portion :
+  `"nutrition": { "kcal": 620, "protein": 30, "proteinAdjusted": 25 }`.
+  `proteinAdjusted` pondère chaque source selon son assimilation : œufs et
+  laitages × 1, soja × 0,9, légumineuses × 0,8, céréales, oléagineux et
+  légumes × 0,7. Au-delà de 20 g assimilables, le tag `riche en protéines`
+  est ajouté automatiquement. Repère : environ 25 à 30 g par plat principal
+  pour un adulte végétarien (environ 1 g/kg/jour).
 - `sortKey` est obligatoire : c'est le mot de classement A-Z
   (« Ratatouille classique » → `"Ratatouille"`).
 

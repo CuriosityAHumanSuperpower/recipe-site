@@ -20,6 +20,9 @@ GitHub Pages. Construit avec Vite + React + react-router (HashRouter).
   pas de 10 pour les grosses recettes) qui recalcule toutes les quantités
   (g → kg, ml → l, fractions pour les cuillères, virgule décimale), option
   « Garder l'écran allumé » pendant qu'on cuisine.
+- Ingrédients et étapes à cocher au fil de la recette. Le nombre de portions
+  choisi est mémorisé par recette ; les cases cochées aussi, pendant 12 h
+  (`localStorage`, propre à chaque navigateur — `utils/useRecipeProgress.js`).
 - Mode clair/sombre mémorisé, mise en page adaptée au téléphone, impression
   propre des recettes.
 

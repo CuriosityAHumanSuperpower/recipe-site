@@ -108,6 +108,9 @@ export function formatQuantity(amount, rawUnit, baseServings, targetServings) {
     case 'cuillère à café':
       if (scaled < 0.1) return '1 pincée';
       return withUnit(scaled, unit);
+    case 'pincée':
+      // Une demi-pincée n'a pas de sens : au moins 1, puis des pincées entières.
+      return withUnit(Math.max(1, Math.round(scaled)), unit);
     default:
       return withUnit(scaled, unit);
   }

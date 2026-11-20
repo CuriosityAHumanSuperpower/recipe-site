@@ -1,0 +1,32 @@
+{
+  "id": "veloute-poireaux",
+  "title": "Velouté de poireaux",
+  "description": "Le grand classique de l'hiver : des poireaux fondus au beurre, une pomme de terre pour le liant et une touche de crème. Doux, onctueux et prêt en trois quarts d'heure.",
+  "tags": ["végétarien", "sans gluten", "automne", "hiver"],
+  "category": "starter",
+  "sortKey": "Velouté de poireaux",
+  "baseServings": 4,
+  "prepTime": 15,
+  "cookTime": 30,
+  "createdAt": "2026-11-17",
+  "nutrition": { "kcal": 240, "protein": 5, "proteinAdjusted": 4 },
+  "ingredients": [
+    { "name": "Poireaux", "amount": 600, "unit": "g" },
+    { "name": "Pommes de terre", "amount": 300, "unit": "g" },
+    { "name": "Oignon", "amount": 1, "unit": "" },
+    { "name": "Beurre", "amount": 20, "unit": "g" },
+    { "name": "Bouillon de légumes", "amount": 1000, "unit": "ml" },
+    { "name": "Crème fraîche entière", "amount": 100, "unit": "ml" },
+    { "name": "Ciboulette (pour servir)", "amount": null, "unit": "quelques brins" },
+    { "name": "Sel", "amount": null, "unit": "au goût" },
+    { "name": "Poivre noir", "amount": null, "unit": "au goût" }
+  ],
+  "steps": [
+    "Couper les racines et le vert foncé des poireaux, en gardant le blanc et le vert tendre. Les fendre en deux dans la longueur, les rincer soigneusement sous l'eau pour retirer la terre, puis les émincer. Éplucher et émincer l'oignon. Éplucher les pommes de terre et les couper en cubes.",
+    "Faire fondre le beurre dans une grande casserole à feu moyen. Ajouter les poireaux et l'oignon avec une pincée de sel, couvrir et faire suer 10 minutes sans coloration, en remuant de temps en temps.",
+    "Ajouter les pommes de terre et le bouillon. Porter à ébullition, puis laisser mijoter 20 minutes à couvert, jusqu'à ce que les pommes de terre s'écrasent facilement.",
+    "Mixer finement, ajouter la crème, saler et poivrer. Allonger avec un peu de bouillon ou d'eau si le velouté est trop épais.",
+    "Servir bien chaud, parsemé de ciboulette ciselée."
+  ],
+  "footnote": "Faire suer les poireaux sans les colorer garde au velouté sa couleur claire et sa douceur. Certains bouillons en cube contiennent du gluten : vérifier l'étiquette. Pour un repas complet, mixer 250 g de haricots blancs égouttés avec la soupe (environ +4 g de protéines assimilables par portion, et un velouté encore plus onctueux) et servir avec des tartines de pain complet au comté. Se garde 3 jours au réfrigérateur et se congèle bien (sans la crème)."
+}

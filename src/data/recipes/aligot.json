@@ -1,0 +1,32 @@
+{
+  "id": "aligot",
+  "title": "Aligot",
+  "description": "La purée filante de l'Aubrac : des pommes de terre écrasées, du beurre, de la crème, une pointe d'ail et de la tomme fraîche, travaillées à la cuillère jusqu'à former de longs rubans élastiques.",
+  "tags": ["végétarien", "sans gluten", "automne", "hiver"],
+  "category": "main",
+  "sortKey": "Aligot",
+  "baseServings": 4,
+  "prepTime": 15,
+  "cookTime": 35,
+  "createdAt": "2026-11-17",
+  "nutrition": { "kcal": 740, "protein": 26, "proteinAdjusted": 24 },
+  "ingredients": [
+    { "name": "Pommes de terre à chair farineuse (bintje, agata…)", "amount": 1000, "unit": "g" },
+    { "name": "Tomme fraîche de l'Aubrac (ou de Laguiole)", "amount": 400, "unit": "g" },
+    { "name": "Crème fraîche entière", "amount": 200, "unit": "ml" },
+    { "name": "Beurre", "amount": 50, "unit": "g" },
+    { "name": "Gousses d'ail", "amount": 2, "unit": "" },
+    { "name": "Gros sel (eau de cuisson)", "amount": 1, "unit": "cuillère à soupe" },
+    { "name": "Sel fin", "amount": null, "unit": "au goût" },
+    { "name": "Poivre noir", "amount": null, "unit": "au goût" }
+  ],
+  "steps": [
+    "Éplucher les pommes de terre, les couper en morceaux de taille égale et les cuire 20 à 25 minutes dans une grande casserole d'eau froide additionnée du gros sel, portée à ébullition, jusqu'à ce qu'elles soient très tendres.",
+    "Pendant ce temps, couper la tomme en fines lamelles et râper l'ail très finement.",
+    "Égoutter les pommes de terre et les passer au presse-purée (jamais au mixeur, qui rend la purée collante). Remettre la purée dans la casserole, à feu doux.",
+    "Ajouter le beurre, la crème et l'ail, et mélanger jusqu'à ce que la purée soit lisse et bien chaude.",
+    "Incorporer la tomme par poignées, en remuant énergiquement avec une cuillère en bois, en décrivant des 8 et en soulevant la purée. Compter environ 10 minutes : l'aligot est prêt quand il devient lisse, brillant et file en longs rubans lorsqu'on soulève la cuillère.",
+    "Saler légèrement (la tomme est déjà salée), poivrer et servir immédiatement : l'aligot durcit en refroidissant."
+  ],
+  "footnote": "La tomme fraîche se trouve à la coupe ou au rayon fromage. À défaut, mélanger moitié mozzarella, moitié cantal jeune. La tomme est fabriquée avec de la présure animale : pour un plat strictement végétarien, choisir des fromages à présure végétale. Traditionnellement servi en accompagnement de saucisse ; en version végétarienne, l'accompagner d'une salade verte bien vinaigrée pour équilibrer sa richesse."
+}
